@@ -1,0 +1,29 @@
+---
+const arrayCards = [
+  {
+    title: 'Rive App Divider',
+    repo: 'https://d960960gm.wixstudio.com/rive-app',
+    localImage: '/assets/rive-app-divider.avif',
+    id: '001'
+  },
+];
+---
+
+<section class="am-container-cards">
+  {
+    arrayCards.map(({ id, localImage, repo, title }) => (
+      <aside class='card' />
+    ))
+  }
+</section>
+
+<style>
+  .am-container-cards {
+    min-height: 100vh;
+    display: grid;
+    padding: 2.2vmax;
+    gap: 2.2vmax;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(17vmax, 1fr));
+  }
+</style>

@@ -72,21 +72,30 @@ const arrayCards = [
     localImage: '/assets/robotic-website-hero-section-ui.avif',
     id: '012'
   },
+
+  {
+    title: 'Wix Members Area',
+    repo: 'https://d960960gm.wixstudio.com/wix-members-area/members-area/my/my-account',
+    localImage: '/assets/wix-members-area.avif',
+    id: '013'
+  },
   {
     title: 'Monitor Analytics Animation',
     repo: 'https://d960960gm.wixstudio.com/analytics-animation',
     localImage: '/assets/monitor-analytics-animation.avif',
-    id: '013'
+    id: '014'
   },
+  {
+    title: 'Login and Register',
+    repo: 'https://d960960gm.wixstudio.com/login-and-register',
+    localImage: '/assets/login-and-register.avif',
+    id: '015'
+  }
 ];
 ---
 
-<section class="am-container-cards">
-  {
-    arrayCards.map(({ id, localImage, repo, title }) => (
-      <aside class='card' />
-    ))
-  }
+<section class='am-container-cards'>
+  {arrayCards.map(({ id, localImage, repo, title }) => <aside class='card' />)}
 </section>
 
 <style>

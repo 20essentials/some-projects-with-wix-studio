@@ -6,7 +6,7 @@ export const ContainerGridDistortion = () => {
   return (
     <>
       <section className='am-container-cards'>
-        {arrayCards.slice(0, 15).map(({ id, localImage, repo, title }) => (
+        {arrayCards.map(({ id, localImage, repo, title }) => (
           <a className='ContainerGridDistortion' key={id} href={repo} target='_blank'>
             <GridDistortion
               imageSrc={baseUrl(localImage)}

@@ -1,5 +1,6 @@
 ---
-import { ContainerGridDistortion } from '@/components/background-grid-distorsion/ContainerGridDistortion';
+// import { ContainerGridDistortion } from '@/components/background-grid-distorsion/ContainerGridDistortion';
+import { ContainerGridDistortion } from '@/components/background-grid-distorsion/GridDistortion';
 import { ContainerSilk } from '@/components/background-silk/ContainerSilk';
 import Hero from '@/components/Hero.astro';
 import Layout from '@/layouts/Layout.astro';
@@ -8,5 +9,6 @@ import Layout from '@/layouts/Layout.astro';
 <Layout>
   <ContainerSilk client:only="react" />
   <Hero />
+  <!-- <ContainerGridDistortion client:only="react" /> -->
   <ContainerGridDistortion client:only="react" />
 </Layout>

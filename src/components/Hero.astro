@@ -1,39 +1,10 @@
-<!-- ---
+---
 import { baseUrl } from '@/utils/functions';
-const logo = baseUrl('/assets/css-logo.svg');
+const logo = baseUrl('/assets/wix-studio.svg');
 ---
 
-<section class="am-hero">
-  <h1>
-    20 PROJECTS WITH CSS <img src={logo} alt='Logo' />
-  </h1>
-</section>
-<style>
-  .am-hero {
-    height: 100vh;
-    position: relative;
-  }
-
-  h1 {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 5vmax;
-    text-align: center;
-    text-wrap: balance;
-    color: transparent;
-    background-image: var(--gradient);
-    background-clip: text;
-
-    img {
-      width: 4vmax;
-      transform: translateY(0.3vmax);
-    }
-  }
-</style>
- -->
 <canvas id='c'></canvas>
+<img src={logo} alt='Logo' />
 
 <style>
   canvas {
@@ -41,6 +12,7 @@ const logo = baseUrl('/assets/css-logo.svg');
     position: relative;
     height: 100vh;
     z-index: 5;
+    overflow: hidden;
   }
 </style>
 
@@ -51,15 +23,15 @@ const logo = baseUrl('/assets/css-logo.svg');
 
   const text: string = TITLE;
 
-  const palette: string[] = [
-    '#6a8caf', // Azul acero suave
-    '#8fbcd4', // Azul cielo pastel
-    '#a7d8c9', // Verde menta claro
-    '#cbe4b4', // Verde lima pastel
-    '#f2e5a2', // Amarillo mantequilla
-    '#e8b58a', // Durazno / melocotón suave
-    '#d97a7a' // Coral rosado
-  ];
+const palette: string[] = [
+  '#FFFFFF', // Blanco
+  '#E6F0FF', // Azul casi blanco (interpolado)
+  '#C9DEFF', // Azul muy claro (gradiente start)
+  '#A5C2FF', // Azul claro intermedio
+  '#7A9FF1', // Azul medio (gradiente mid)
+  '#4F6FE0', // Azul intenso intermedio
+  '#0023CE'  // Azul profundo (gradiente end)
+];
 
   interface Pointer {
     x: number;

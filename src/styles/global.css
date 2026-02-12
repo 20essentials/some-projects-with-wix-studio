@@ -1,5 +1,7 @@
 :root {
-  --gradient: linear-gradient(to bottom, #00f, transparent);
+  --primary: #7A9FF1;
+  --secondary: #2b69ed;
+  --gradient: linear-gradient(to bottom, var(--primary), var(--secondary));
 }
 
 /* @font-face {
@@ -55,6 +57,7 @@ body {
   width: 100%;
   display: flex;
   flex-direction: column;
+  background-color: #000;
   overflow-x: hidden;
 }
 

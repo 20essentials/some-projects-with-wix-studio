@@ -7,7 +7,7 @@ export const ContainerSilk = () => {
       <Silk
         speed={5}
         scale={1}
-        color='#04aa6d'
+        color='#2b69ed'
         noiseIntensity={1.5}
         rotation={0}
       />

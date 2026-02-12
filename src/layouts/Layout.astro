@@ -1,6 +1,6 @@
 ---
-const title = 'Project'
 import '@/styles/global.css';
+import { TITLE } from '@/utils/data';
 import { baseUrl } from '@/utils/functions';
 const favicon = baseUrl('/assets/favicon.webp');
 ---
@@ -12,7 +12,7 @@ const favicon = baseUrl('/assets/favicon.webp');
     <meta name='viewport' content='width=device-width' />
     <link rel='icon' type='image/svg+xml' href={favicon} />
     <meta name='google' content='notranslate' />
-    <title>{title}</title>
+    <title>{TITLE}</title>
   </head>
   <body>
     <slot />

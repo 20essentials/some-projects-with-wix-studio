@@ -10,7 +10,11 @@
     "deploy": "pnpm gh-pages -d dist/"
   },
   "dependencies": {
-    "astro": "5.13.5"
+    "@react-three/fiber": "^9.5.0",
+    "@tailwindcss/vite": "^4.1.18",
+    "astro": "5.13.5",
+    "tailwindcss": "^4.1.18",
+    "three": "^0.182.0"
   },
   "devDependencies": {
     "gh-pages": "6.3.0"

@@ -1,10 +1,12 @@
 ---
+import { ContainerSilk } from '@/components/background-silk/ContainerSilk';
 import ContainerCards from '@/components/ContainerCards.astro';
 import Hero from '@/components/Hero.astro';
 import Layout from '@/layouts/Layout.astro';
 ---
 
 <Layout>
+  <ContainerSilk client:load />
   <Hero />
   <ContainerCards />
 </Layout>

@@ -4,15 +4,35 @@ const logo = baseUrl('/assets/wix-studio.svg');
 ---
 
 <canvas id='c'></canvas>
-<img src={logo} alt='Logo' />
+<img class='am-logo' src={logo} alt='Logo' />
 
 <style>
+  .am-logo {
+    position: fixed;
+    width: 100vmax;
+    height: 100vmax;
+    z-index: 1;
+    left: 70%;
+    top: 50%;
+    mix-blend-mode: overlay;
+    animation: grow 1.5s ease-in-out  alternate both;
+  }
+
   canvas {
     width: 100%;
     position: relative;
     height: 100vh;
     z-index: 5;
     overflow: hidden;
+  }
+
+  @keyframes grow {
+    0% {
+      transform: translate(-50%, -50%) scale(3);
+    }
+    100% {
+      transform: translate(-50%, -50%) scale(0.38);
+    }
   }
 </style>
 
@@ -23,15 +43,15 @@ const logo = baseUrl('/assets/wix-studio.svg');
 
   const text: string = TITLE;
 
-const palette: string[] = [
-  '#FFFFFF', // Blanco
-  '#E6F0FF', // Azul casi blanco (interpolado)
-  '#C9DEFF', // Azul muy claro (gradiente start)
-  '#A5C2FF', // Azul claro intermedio
-  '#7A9FF1', // Azul medio (gradiente mid)
-  '#4F6FE0', // Azul intenso intermedio
-  '#0023CE'  // Azul profundo (gradiente end)
-];
+  const palette: string[] = [
+    '#FFFFFF', // Blanco
+    '#E6F0FF', // Azul casi blanco (interpolado)
+    '#C9DEFF', // Azul muy claro (gradiente start)
+    '#A5C2FF', // Azul claro intermedio
+    '#7A9FF1', // Azul medio (gradiente mid)
+    '#4F6FE0', // Azul intenso intermedio
+    '#0023CE' // Azul profundo (gradiente end)
+  ];
 
   interface Pointer {
     x: number;

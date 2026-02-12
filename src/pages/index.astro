@@ -6,7 +6,7 @@ import Layout from '@/layouts/Layout.astro';
 ---
 
 <Layout>
-  <ContainerSilk client:load />
+  <ContainerSilk client:only="react" />
   <Hero />
   <ContainerCards />
 </Layout>

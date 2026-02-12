@@ -12,15 +12,5 @@ export const ContainerInfiniteMenu = () => {
         description: title
       }))}
     />
-    // <article className='ContainerInfiniteMenu'>
-    //   <InfiniteMenu
-    //     items={arrayCards.map(({ id, localImage, repo, title }, i) => ({
-    //       image: baseUrl(localImage),
-    //       title: `Project ${i + 1}`,
-    //       link: repo,
-    //       description: title
-    //     }))}
-    //   />
-    // </article>
   );
 };

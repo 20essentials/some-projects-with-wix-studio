@@ -43,7 +43,7 @@ void main() {
         worldPosition.xyz += stretchDir * strength;
     }
 
-    
+    worldPosition.xyz = radius * normalize(worldPosition.xyz);
 
     gl_Position = uProjectionMatrix * uViewMatrix * worldPosition;
 
@@ -328,28 +328,6 @@ class IcosahedronGeometry extends Geometry {
       8,
       1
     );
-  }
-}
-
-class RectGeometry extends Geometry {
-  constructor(width = 1, height = 1) {
-    super();
-
-    // vértices
-    this.addVertex(-width / 2, -height / 2, 0); // 0 - bottom left
-    this.addVertex(width / 2, -height / 2, 0); // 1 - bottom right
-    this.addVertex(width / 2, height / 2, 0); // 2 - top right
-    this.addVertex(-width / 2, height / 2, 0); // 3 - top left
-
-    // UVs
-    this.vertices[0].uv = vec2.fromValues(0, 0);
-    this.vertices[1].uv = vec2.fromValues(1, 0);
-    this.vertices[2].uv = vec2.fromValues(1, 1);
-    this.vertices[3].uv = vec2.fromValues(0, 1);
-
-    // caras
-    this.addFace(0, 1, 2);
-    this.addFace(0, 2, 3);
   }
 }
 
@@ -891,10 +869,7 @@ class InfiniteGridMenu {
       uAtlasSize: gl.getUniformLocation(this.discProgram!, 'uAtlasSize')
     };
 
-    // this.discGeo = new DiscGeometry(56, 1);
-    const _w = 2.3;
-    const _h = _w + 0.3;
-    this.discGeo = new RectGeometry(_w, _h);
+    this.discGeo = new DiscGeometry(56, 1);
     this.discBuffers = this.discGeo.data;
     this.discVAO = makeVertexArray(
       gl,
@@ -963,7 +938,7 @@ class InfiniteGridMenu {
           })
       )
     ).then(images => {
-    images.forEach((img, i) => {
+      images.forEach((img, i) => {
         const x = (i % this.atlasSize) * cellSize;
         const y = Math.floor(i / this.atlasSize) * cellSize;
 
@@ -983,6 +958,7 @@ class InfiniteGridMenu {
 
         ctx.drawImage(img, x + offsetX, y + offsetY, drawWidth, drawHeight);
       });
+
 
       gl.bindTexture(gl.TEXTURE_2D, this.tex);
       gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, canvas);
@@ -1314,7 +1290,7 @@ const InfiniteMenu: FC<InfiniteMenuProps> = ({ items = [], scale = 1.0 }) => {
         <>
           <h2
             className={`
-            absolute left-[6vmax] top-1/2 -translate-y-1/2 translate-x-1/5 font-extrabold select-none text-[3vmax] 
+            absolute left-6 top-1/2 -translate-y-1/2 translate-x-1/5 font-extrabold select-none text-[4rem] 
             text-white dark:text-white/90
             transition-all duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)]
             ${
@@ -1329,8 +1305,8 @@ const InfiniteMenu: FC<InfiniteMenuProps> = ({ items = [], scale = 1.0 }) => {
 
           <p
             className={`
-            absolute top-1/2 right-6 -translate-y-1/2 max-w-[12ch] text-[1.5vmax] 
-            text-white/80 dark:text-white/70 select-none text-wrap 
+            absolute top-1/2 right-6 max-w-[12ch] -translate-y-1/2 text-[1.5rem] 
+            text-white/80 dark:text-white/70 select-none
             transition-all duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)]
             ${
               isMoving
@@ -1345,17 +1321,17 @@ const InfiniteMenu: FC<InfiniteMenuProps> = ({ items = [], scale = 1.0 }) => {
           <div
             onClick={handleButtonClick}
             className={`
-            absolute left-1/2 -translate-x-1/2 text-[1.5vmax] z-10 w-[4vmax] h-[4vmax] grid place-items-center
-            bg-[#2b69ed] border-[0.2vmax] border-black rounded-full cursor-pointer
+            absolute left-1/2 -translate-x-1/2 z-10 w-16 h-16 grid place-items-center
+            bg-cyan-400 border-4 border-black rounded-full cursor-pointer
             transition-transform duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)]
             ${
               isMoving
-                ? 'bottom-[-5vmax] opacity-0 pointer-events-none scale-0 duration-100'
-                : 'bottom-[4vmax] opacity-100 scale-100 hover:scale-110'
+                ? 'bottom-[-5rem] opacity-0 pointer-events-none scale-0 duration-100'
+                : 'bottom-[4rem] opacity-100 scale-100 hover:scale-110'
             }
           `}
           >
-            <span className='text-black text-[1.8vmax] select-none relative'>
+            <span className='text-black text-[26px] select-none relative top-[2px]'>
               &#x2197;
             </span>
           </div>

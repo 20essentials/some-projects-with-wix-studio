@@ -5,18 +5,20 @@ import { baseUrl } from '@/utils/functions';
 export const ContainerGridDistortion = () => {
   return (
     <>
-      {arrayCards.map(({ id, localImage, repo, title }) => (
-        <article className='ContainerGridDistortion' key={id}>
-          <GridDistortion
-            imageSrc={baseUrl(localImage)}
-            grid={10}
-            mouse={0.1}
-            strength={0.15}
-            relaxation={0.9}
-            className='custom-class'
-          />
-        </article>
-      ))}
+      <section className='am-container-cards'>
+        {arrayCards.slice(0, 15).map(({ id, localImage, repo, title }) => (
+          <a className='ContainerGridDistortion' key={id} href={repo} target='_blank'>
+            <GridDistortion
+              imageSrc={baseUrl(localImage)}
+              grid={10}
+              mouse={0.1}
+              strength={0.15}
+              relaxation={0.9}
+              className='custom-class'
+            />
+          </a>
+        ))}
+      </section>
     </>
   );
 };

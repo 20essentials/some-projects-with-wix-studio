@@ -56,7 +56,7 @@ export const arrayCards = [
   {
     title: 'Hero Section with Interactive Animation',
     repo: 'https://d960960gm.wixstudio.com/herosection-animated',
-    localImage: '/assets/template-rive-apps.avif',
+    localImage: '/assets/hero-section-with-interactive-animation.avif',
     id: '010'
   },
   {

@@ -5,10 +5,10 @@ import { baseUrl } from '@/utils/functions';
 export const ContainerGridDistortion = () => {
   return (
     <>
-      {arrayCards.map(() => (
-        <article className='ContainerGridDistortion'>
+      {arrayCards.map(({ id, localImage, repo, title }) => (
+        <article className='ContainerGridDistortion' key={id}>
           <GridDistortion
-            imageSrc={baseUrl('/assets/wix-ia-site-chat.avif')}
+            imageSrc={baseUrl(localImage)}
             grid={10}
             mouse={0.1}
             strength={0.15}

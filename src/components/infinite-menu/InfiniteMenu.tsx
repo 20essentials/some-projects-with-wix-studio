@@ -1303,11 +1303,11 @@ const InfiniteMenu: FC<InfiniteMenuProps> = ({ items = [], scale = 1.0 }) => {
   };
 
   return (
-    <div className='relative w-full h-full z-10 bg-transparent'>
+    <div className='relative w-full h-screen z-10 bg-transparent'>
       <canvas
         id='infinite-grid-menu-canvas'
         ref={canvasRef}
-        className='w-full h-full cursor-grab active:cursor-grabbing outline-none bg-transparent'
+        className='w-full h-full cursor-grab active:cursor-grabbing outline-none bg-transparent am-super-canvas'
       />
 
       {activeItem && (
@@ -1317,6 +1317,7 @@ const InfiniteMenu: FC<InfiniteMenuProps> = ({ items = [], scale = 1.0 }) => {
             absolute left-[6vmax] top-1/2 -translate-y-1/2 translate-x-1/5 font-extrabold select-none text-[3vmax] 
             text-white dark:text-white/90
             transition-all duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)]
+            am-title-of-card
             ${
               isMoving
                 ? 'opacity-0 pointer-events-none duration-100'
@@ -1332,6 +1333,7 @@ const InfiniteMenu: FC<InfiniteMenuProps> = ({ items = [], scale = 1.0 }) => {
             absolute top-1/2 right-6 -translate-y-1/2 max-w-[12ch] text-[1.5vmax] 
             text-white/80 dark:text-white/70 select-none text-wrap 
             transition-all duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)]
+            am-paragraph-of-card
             ${
               isMoving
                 ? 'opacity-0 pointer-events-none translate-x-[-60%] duration-100'

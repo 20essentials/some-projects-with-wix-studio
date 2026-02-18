@@ -131,7 +131,13 @@ export const arrayCards = [
     repo: 'https://d960960gm.wixstudio.com/modalystdropshipping/product-page/turn5-portable-bluetooth-speaker#wix-reviews-stores-b6343924-bfc1-443e-a556-27c5c9b9ec5f',
     localImage: '/assets/wix-reviews.avif',
     id: '022'
-  }
+  },
+  {
+    title: 'Scroll Grow Effect',
+    repo: 'https://d960960gm.wixstudio.com/scroll-effect',
+    localImage: '/assets/scroll-grow-effect.avif',
+    id: '023'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

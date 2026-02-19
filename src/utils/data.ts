@@ -138,6 +138,12 @@ export const arrayCards = [
     localImage: '/assets/scroll-grow-effect.avif',
     id: '023'
   },
+  {
+    title: 'Practicing Animations',
+    repo: 'https://d960960gm.wixstudio.com/practice-animations',
+    localImage: '/assets/practicing-animations.avif',
+    id: '024'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

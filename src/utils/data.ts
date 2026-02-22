@@ -144,6 +144,18 @@ export const arrayCards = [
     localImage: '/assets/practicing-animations.avif',
     id: '024'
   },
+  {
+    title: 'Spin-Scroll-Fade',
+    repo: 'https://d960960gm.wixstudio.com/spin-scroll',
+    localImage: '/assets/spin-scroll-fade.avif',
+    id: '025'
+  },
+  {
+    title: 'Tilt And Swivel',
+    repo: 'https://d960960gm.wixstudio.com/tilt-and-swivel',
+    localImage: '/assets/tilt-and-swivel.avif',
+    id: '026'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

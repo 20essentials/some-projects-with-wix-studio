@@ -162,6 +162,12 @@ export const arrayCards = [
     localImage: '/assets/text-marquee.avif',
     id: '027'
   },
+  {
+    title: 'Gradient Color Change',
+    repo: 'https://d960960gm.wixstudio.com/projects/gradient-color-change',
+    localImage: '/assets/gradient-color-change.avif',
+    id: '028'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

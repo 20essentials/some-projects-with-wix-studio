@@ -156,6 +156,12 @@ export const arrayCards = [
     localImage: '/assets/tilt-and-swivel.avif',
     id: '026'
   },
+  {
+    title: 'Text Marquee',
+    repo: 'https://d960960gm.wixstudio.com/projects/text-marquee',
+    localImage: '/assets/text-marquee.avif',
+    id: '027'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

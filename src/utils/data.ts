@@ -168,6 +168,12 @@ export const arrayCards = [
     localImage: '/assets/gradient-color-change.avif',
     id: '028'
   },
+  {
+    title: 'Frame Marquee',
+    repo: 'https://d960960gm.wixstudio.com/projects/frame-marquee',
+    localImage: '/assets/frame-marquee.avif',
+    id: '029'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -174,6 +174,12 @@ export const arrayCards = [
     localImage: '/assets/frame-marquee.avif',
     id: '029'
   },
+  {
+    title: 'Gift Card',
+    repo: 'https://d960960gm.wixstudio.com/using-printful/gift-card',
+    localImage: '/assets/gift-card.avif',
+    id: '030'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -180,6 +180,18 @@ export const arrayCards = [
     localImage: '/assets/gift-card.avif',
     id: '030'
   },
+  {
+    title: 'Horizontal Slider + Hover Animation',
+    repo: 'https://d960960gm.wixstudio.com/projects/team-section',
+    localImage: '/assets/horizontal-slider-and-hover-animation.avif',
+    id: '031'
+  },
+  {
+    title: 'Card Column Reveal',
+    repo: 'https://d960960gm.wixstudio.com/projects/card-column-reveal',
+    localImage: '/assets/card-column-reveal.avif',
+    id: '032'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

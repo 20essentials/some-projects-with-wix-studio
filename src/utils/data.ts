@@ -192,6 +192,12 @@ export const arrayCards = [
     localImage: '/assets/card-column-reveal.avif',
     id: '032'
   },
+  {
+    title: 'Uiverse component',
+    repo: 'https://d960960gm.wixstudio.com/projects/uiverse-component',
+    localImage: '/assets/uiverse-component.avif',
+    id: '033'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -198,6 +198,12 @@ export const arrayCards = [
     localImage: '/assets/uiverse-component.avif',
     id: '033'
   },
+  {
+    title: 'Wix Blog (Practice)',
+    repo: 'https://d960960gm.wixstudio.com/wix-blog/blog',
+    localImage: '/assets/wix-blog.avif',
+    id: '034'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

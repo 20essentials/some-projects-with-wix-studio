@@ -204,6 +204,12 @@ export const arrayCards = [
     localImage: '/assets/wix-blog.avif',
     id: '034'
   },
+  {
+    title: 'Mousemove + Mini-Traccia-Parallax 3D',
+    repo: 'https://d960960gm.wixstudio.com/projects/mouse-parallax-3d',
+    localImage: '/assets/mouse-parallax-3d.avif',
+    id: '035'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

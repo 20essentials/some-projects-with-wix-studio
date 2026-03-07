@@ -210,6 +210,12 @@ export const arrayCards = [
     localImage: '/assets/mouse-parallax-3d.avif',
     id: '035'
   },
+  {
+    title: 'Effetti WEBGL',
+    repo: 'https://d960960gm.wixstudio.com/projects/effetti-webgl',
+    localImage: '/assets/effetti-webgl.avif',
+    id: '036'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

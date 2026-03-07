@@ -216,6 +216,12 @@ export const arrayCards = [
     localImage: '/assets/effetti-webgl.avif',
     id: '036'
   },
+  {
+    title: 'Vibe Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/vibe-scroll',
+    localImage: '/assets/vibe-scroll.avif',
+    id: '037'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

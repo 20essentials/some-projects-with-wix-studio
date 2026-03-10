@@ -222,6 +222,12 @@ export const arrayCards = [
     localImage: '/assets/vibe-scroll.avif',
     id: '037'
   },
+  {
+    title: 'Change Image on Hover',
+    repo: 'https://d960960gm.wixstudio.com/projects/change-image-on-hover',
+    localImage: '/assets/change-image-on-hover.avif',
+    id: '038'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

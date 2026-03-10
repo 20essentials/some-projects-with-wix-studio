@@ -228,6 +228,12 @@ export const arrayCards = [
     localImage: '/assets/change-image-on-hover.avif',
     id: '038'
   },
+  {
+    title: 'Entrance Fall Animation',
+    repo: 'https://d960960gm.wixstudio.com/projects/entrance-fall-animation',
+    localImage: '/assets/entrance-fall-animation.avif',
+    id: '039'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

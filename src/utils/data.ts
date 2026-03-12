@@ -234,6 +234,12 @@ export const arrayCards = [
     localImage: '/assets/entrance-fall-animation.avif',
     id: '039'
   },
+  {
+    title: 'Custom Element',
+    repo: 'https://d960960gm.wixstudio.com/projects/custom-element',
+    localImage: '/assets/custom-element.avif',
+    id: '040'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

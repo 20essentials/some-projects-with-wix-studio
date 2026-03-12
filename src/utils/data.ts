@@ -240,6 +240,12 @@ export const arrayCards = [
     localImage: '/assets/custom-element.avif',
     id: '040'
   },
+  {
+    title: 'Text Reveal Arc',
+    repo: 'https://d960960gm.wixstudio.com/projects/text-reveal-arc',
+    localImage: '/assets/text-reveal-arc.avif',
+    id: '041'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

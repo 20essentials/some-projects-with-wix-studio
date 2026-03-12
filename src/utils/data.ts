@@ -246,6 +246,12 @@ export const arrayCards = [
     localImage: '/assets/text-reveal-arc.avif',
     id: '041'
   },
+  {
+    title: 'Offset Follower',
+    repo: 'https://d960960gm.wixstudio.com/projects/offset-follower',
+    localImage: '/assets/offset-follower.avif',
+    id: '042'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

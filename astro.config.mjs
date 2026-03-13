@@ -13,9 +13,9 @@ export default defineConfig({
 
   //Localhost
   //Deploy normal project
-  // base: '/some-projects-with-wix-studio',
-  // site: 'https://20essentials.github.io/some-projects-with-wix-studio/',
-  site: 'http://localhost:4321/',
+  base: '/some-projects-with-wix-studio',
+  site: 'https://20essentials.github.io/some-projects-with-wix-studio/',
+  // site: 'http://localhost:4321/',
 
   vite: {
     plugins: [tailwindcss()]

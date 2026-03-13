@@ -258,6 +258,12 @@ export const arrayCards = [
     localImage: '/assets/image-blend-scroll.avif',
     id: '043'
   },
+  {
+    title: 'Cards Reveal Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/cards-reveal-scroll',
+    localImage: '/assets/cards-reveal-scroll.avif',
+    id: '044'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -252,6 +252,12 @@ export const arrayCards = [
     localImage: '/assets/offset-follower.avif',
     id: '042'
   },
+  {
+    title: 'Image Blend Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/image-blend-scroll',
+    localImage: '/assets/image-blend-scroll.avif',
+    id: '043'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

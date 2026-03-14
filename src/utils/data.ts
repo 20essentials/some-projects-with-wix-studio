@@ -264,6 +264,12 @@ export const arrayCards = [
     localImage: '/assets/cards-reveal-scroll.avif',
     id: '044'
   },
+  {
+    title: 'Pricing Plans',
+    repo: 'https://d960960gm.wixstudio.com/projects/pricing-plans',
+    localImage: '/assets/pricing-plan.avif',
+    id: '045'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -270,6 +270,12 @@ export const arrayCards = [
     localImage: '/assets/pricing-plan.avif',
     id: '045'
   },
+  {
+    title: 'Twist Text effect',
+    repo: 'https://d960960gm.wixstudio.com/projects/twist-text-effect',
+    localImage: '/assets/twist-text-effect.avif',
+    id: '046'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

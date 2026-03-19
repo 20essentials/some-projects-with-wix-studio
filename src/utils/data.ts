@@ -276,6 +276,18 @@ export const arrayCards = [
     localImage: '/assets/twist-text-effect.avif',
     id: '046'
   },
+  {
+    title: 'Flexbox',
+    repo: 'https://d960960gm.wixstudio.com/projects/flexbox',
+    localImage: '/assets/flexbox.avif',
+    id: '047'
+  },
+  {
+    title: 'Dropdown Custom',
+    repo: 'https://d960960gm.wixstudio.com/projects/dropdown-custom',
+    localImage: '/assets/dropdown-custom.avif',
+    id: '048'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

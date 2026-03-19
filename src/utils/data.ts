@@ -288,6 +288,12 @@ export const arrayCards = [
     localImage: '/assets/dropdown-custom.avif',
     id: '048'
   },
+  {
+    title: 'Skew Effect',
+    repo: 'https://d960960gm.wixstudio.com/projects/skew-effect',
+    localImage: '/assets/skew-effect.avif',
+    id: '049'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

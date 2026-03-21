@@ -294,6 +294,12 @@ export const arrayCards = [
     localImage: '/assets/skew-effect.avif',
     id: '049'
   },
+  {
+    title: 'Wix Search App',
+    repo: 'https://d960960gm.wixstudio.com/using-printful/search',
+    localImage: '/assets/wix-search-app.avif',
+    id: '050'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

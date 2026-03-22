@@ -300,6 +300,12 @@ export const arrayCards = [
     localImage: '/assets/wix-search-app.avif',
     id: '050'
   },
+  {
+    title: 'Wix Groups',
+    repo: 'https://d960960gm.wixstudio.com/wix-groups/group/design/discussion',
+    localImage: '/assets/wix-groups.avif',
+    id: '051'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -306,6 +306,12 @@ export const arrayCards = [
     localImage: '/assets/wix-groups.avif',
     id: '051'
   },
+  {
+    title: 'Wix Booking + Service List Page + Lessons + Calendar Pick + Daily Agenda + Weekly Timetable',
+    repo: 'https://d960960gm.wixstudio.com/wix-bookings',
+    localImage: '/assets/wix-bookings.avif',
+    id: '052'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

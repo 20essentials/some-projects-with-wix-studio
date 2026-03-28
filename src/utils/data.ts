@@ -318,6 +318,12 @@ export const arrayCards = [
     localImage: '/assets/slideshow.avif',
     id: '053'
   },
+  {
+    title: 'Carousel Marquee',
+    repo: 'https://d960960gm.wixstudio.com/projects/carousel-marquee',
+    localImage: '/assets/carousel-marquee.avif',
+    id: '054'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

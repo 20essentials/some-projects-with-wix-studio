@@ -312,6 +312,12 @@ export const arrayCards = [
     localImage: '/assets/wix-bookings.avif',
     id: '052'
   },
+  {
+    title: 'Slideshow',
+    repo: 'https://d960960gm.wixstudio.com/projects/slideshow',
+    localImage: '/assets/slideshow.avif',
+    id: '053'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -324,6 +324,12 @@ export const arrayCards = [
     localImage: '/assets/carousel-marquee.avif',
     id: '054'
   },
+  {
+    title: 'Scrollytelling Novartis',
+    repo: 'https://d960960gm.wixstudio.com/projects/scrollytelling',
+    localImage: '/assets/scrollytelling.avif',
+    id: '055'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

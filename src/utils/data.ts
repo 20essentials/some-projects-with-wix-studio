@@ -330,6 +330,12 @@ export const arrayCards = [
     localImage: '/assets/scrollytelling.avif',
     id: '055'
   },
+  {
+    title: 'Mousemove Radial Gradient Effect',
+    repo: 'https://d960960gm.wixstudio.com/projects/mousemove-radial-gradient',
+    localImage: '/assets/mousemove-radial-gradient.avif',
+    id: '056'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -348,6 +348,12 @@ export const arrayCards = [
     localImage: '/assets/gap-text.avif',
     id: '058'
   },
+  {
+    title: 'Shiny Hover',
+    repo: 'https://d960960gm.wixstudio.com/projects/shiny-hover',
+    localImage: '/assets/shiny-hover.avif',
+    id: '059'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

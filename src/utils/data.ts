@@ -336,6 +336,12 @@ export const arrayCards = [
     localImage: '/assets/mousemove-radial-gradient.avif',
     id: '056'
   },
+  {
+    title: 'Wix Events + Seating Map + Event Schedule + Tickets',
+    repo: 'https://d960960gm.wixstudio.com/wix-events/event-details/code-con',
+    localImage: '/assets/wix-events.avif',
+    id: '057'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

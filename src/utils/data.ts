@@ -342,6 +342,12 @@ export const arrayCards = [
     localImage: '/assets/wix-events.avif',
     id: '057'
   },
+  {
+    title: 'Gap Text',
+    repo: 'https://d960960gm.wixstudio.com/projects/gap-text',
+    localImage: '/assets/gap-text.avif',
+    id: '058'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

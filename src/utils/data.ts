@@ -360,6 +360,12 @@ export const arrayCards = [
     localImage: '/assets/zoom-through-scroll.avif',
     id: '060'
   },
+  {
+    title: 'rectangle-scroll-through',
+    repo: 'https://d960960gm.wixstudio.com/projects/rectangle-scroll-through',
+    localImage: '/assets/rectangle-scroll-through.avif',
+    id: '061'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

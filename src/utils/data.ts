@@ -354,6 +354,12 @@ export const arrayCards = [
     localImage: '/assets/shiny-hover.avif',
     id: '059'
   },
+  {
+    title: 'zoom-through-scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/zoom-through-scroll',
+    localImage: '/assets/zoom-through-scroll.avif',
+    id: '060'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

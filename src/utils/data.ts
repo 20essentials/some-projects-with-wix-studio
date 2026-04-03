@@ -372,6 +372,12 @@ export const arrayCards = [
     localImage: '/assets/spotlight-mouse.avif',
     id: '062'
   },
+  {
+    title: 'Simple Blur Effect',
+    repo: 'https://d960960gm.wixstudio.com/projects/blur',
+    localImage: '/assets/blur.avif',
+    id: '063'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

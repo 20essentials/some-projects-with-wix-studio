@@ -378,6 +378,18 @@ export const arrayCards = [
     localImage: '/assets/blur.avif',
     id: '063'
   },
+  {
+    title: 'Fill Reveal',
+    repo: 'https://d960960gm.wixstudio.com/projects/fill-reveal',
+    localImage: '/assets/fill-reveal.avif',
+    id: '064'
+  },
+  {
+    title: 'Horizontal Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/horizontal-scroll-section',
+    localImage: '/assets/horizontal-scroll-section.avif',
+    id: '065'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

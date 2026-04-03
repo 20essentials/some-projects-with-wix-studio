@@ -366,6 +366,12 @@ export const arrayCards = [
     localImage: '/assets/rectangle-scroll-through.avif',
     id: '061'
   },
+  {
+    title: 'spotlight-mouse',
+    repo: 'https://d960960gm.wixstudio.com/projects/spotlight-mouse',
+    localImage: '/assets/spotlight-mouse.avif',
+    id: '062'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

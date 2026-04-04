@@ -1,10 +1,12 @@
 ---
 import { baseUrl } from '@/utils/functions';
+import { TITLE } from '@/utils/data';
 const logo = baseUrl('/assets/wix-studio.svg');
 ---
 
 <section class='snapted am-container'>
   <canvas id='c'></canvas>
+  <h2 class='am-h2'>{TITLE}</h2>
   <img class='am-logo' src={logo} alt='Logo' />
 </section>
 
@@ -16,6 +18,28 @@ const logo = baseUrl('/assets/wix-studio.svg');
     width: 100%;
     border-bottom: 0.1vmax solid var(--primary);
     touch: pan-y;
+    display: flex;
+    flex-wrap: wrap;
+    place-content: center;
+
+    .am-h2 {
+      position: relative;
+      z-index: 300;
+      text-transform: uppercase;
+      font-size: 2.5vmax;
+      font-weight: 900;
+      font-family:
+        Verdana, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      color: #000;
+      mix-blend-mode: overlay;
+      display: none;
+      text-align: center;
+      padding: 1vmax;
+
+      @media (width <= 1111px) and (orientation: portrait) {
+        display: flex;
+      }
+    }
   }
 
   .am-logo {
@@ -31,14 +55,15 @@ const logo = baseUrl('/assets/wix-studio.svg');
 
   canvas {
     width: 100%;
-    position: relative;
+    position: absolute;
     height: 100vh;
     z-index: 5;
     overflow: hidden;
 
-    /*    @media (width <= 1111px) and (orientation: portrait) {
-      transform: scale(0.8);
-    } */
+    @media (width <= 1111px) and (orientation: portrait) {
+      visibility: hidden;
+      pointer-events: none;
+    }
   }
 
   @keyframes grow {

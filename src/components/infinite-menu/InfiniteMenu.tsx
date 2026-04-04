@@ -1330,7 +1330,7 @@ const InfiniteMenu: FC<InfiniteMenuProps> = ({ items = [], scale = 1.0 }) => {
 
           <p
             className={`
-            absolute top-1/2 right-6 -translate-y-1/2 max-w-[12ch] text-[1.5vmax] 
+            absolute top-1/2 right-[2vmax] -translate-y-1/2 max-w-[12ch] text-[1.5vmax] 
             text-white/80 dark:text-white/70 select-none text-wrap 
             transition-all duration-500 ease-[cubic-bezier(0.25,0.1,0.25,1)]
             am-paragraph-of-card

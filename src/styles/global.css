@@ -125,8 +125,17 @@ body::-webkit-scrollbar-thumb {
   .am-title-of-card {
     left: 5vmax;
   }
+  
   .am-paragraph-of-card {
     left: initial;
     right: 0vmax;
+  }
+}
+@media (width <= 600px) and (orientation: portrait) {
+  .am-paragraph-of-card {
+    left: initial;
+    top: 75%;
+    right: 0vmax;
+    max-width: 16ch;
   }
 }

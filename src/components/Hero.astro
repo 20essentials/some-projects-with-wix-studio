@@ -3,10 +3,18 @@ import { baseUrl } from '@/utils/functions';
 const logo = baseUrl('/assets/wix-studio.svg');
 ---
 
-<canvas id='c'></canvas>
-<img class='am-logo' src={logo} alt='Logo' />
+<section class='snapted am-container'>
+  <canvas id='c'></canvas>
+  <img class='am-logo' src={logo} alt='Logo' />
+</section>
 
 <style>
+  .am-container {
+    height: 100vh;
+    overflow: hidden;
+    width: 100%;
+  }
+
   .am-logo {
     position: fixed;
     width: 100vmax;
@@ -15,7 +23,7 @@ const logo = baseUrl('/assets/wix-studio.svg');
     left: 70%;
     top: 50%;
     mix-blend-mode: overlay;
-    animation: grow 1.5s ease-in-out  alternate both;
+    animation: grow 1.5s ease-in-out alternate both;
   }
 
   canvas {

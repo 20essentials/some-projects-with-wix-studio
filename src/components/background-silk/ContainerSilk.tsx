@@ -1,9 +1,9 @@
 import Silk from './Silk';
-import './Silk.css'
+import './Silk.css';
 
 export const ContainerSilk = () => {
   return (
-    <article className='ContainerSilk'>
+    <article className='ContainerSilk '>
       <Silk
         speed={5}
         scale={1}

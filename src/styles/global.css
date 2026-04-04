@@ -76,6 +76,15 @@ body {
   overflow-x: hidden;
 }
 
+html,
+body {
+  scroll-snap-type: y mandatory;
+}
+
+.snapted {
+  scroll-snap-align: start;
+}
+
 /***************************SCROLL***************************/
 
 body::-webkit-scrollbar {

@@ -402,6 +402,12 @@ export const arrayCards = [
     localImage: '/assets/tabs.avif',
     id: '067'
   },
+  {
+    title: 'Burst Hover Animation',
+    repo: 'https://d960960gm.wixstudio.com/projects/burst-hover-animation',
+    localImage: '/assets/burst-hover-animation.avif',
+    id: '068'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -408,6 +408,12 @@ export const arrayCards = [
     localImage: '/assets/burst-hover-animation.avif',
     id: '068'
   },
+  {
+    title: 'Shutter Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/shutter-scroll',
+    localImage: '/assets/shutter-scroll.avif',
+    id: '069'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

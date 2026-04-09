@@ -390,6 +390,12 @@ export const arrayCards = [
     localImage: '/assets/horizontal-scroll-section.avif',
     id: '065'
   },
+  {
+    title: 'Grabbing Text',
+    repo: 'https://d960960gm.wixstudio.com/projects/grabbing-text',
+    localImage: '/assets/grabbing-text.avif',
+    id: '066'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

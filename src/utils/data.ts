@@ -396,6 +396,12 @@ export const arrayCards = [
     localImage: '/assets/grabbing-text.avif',
     id: '066'
   },
+  {
+    title: 'Tabs',
+    repo: 'https://d960960gm.wixstudio.com/projects/tabs',
+    localImage: '/assets/tabs.avif',
+    id: '067'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -414,6 +414,12 @@ export const arrayCards = [
     localImage: '/assets/shutter-scroll.avif',
     id: '069'
   },
+  {
+    title: 'Wix Table Reservations & Wix Experiences',
+    repo: 'htthttps://d960960gm.wixstudio.com/table-reservations/experience-details?referrer=experiences-list&experienceId=f9af527d-fb85-453d-9ffb-eabeaf51fdbd',
+    localImage: '/assets/shutter-scroll.avif',
+    id: '070'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

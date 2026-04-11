@@ -416,9 +416,15 @@ export const arrayCards = [
   },
   {
     title: 'Wix Table Reservations & Wix Experiences',
-    repo: 'htthttps://d960960gm.wixstudio.com/table-reservations/experience-details?referrer=experiences-list&experienceId=f9af527d-fb85-453d-9ffb-eabeaf51fdbd',
-    localImage: '/assets/shutter-scroll.avif',
+    repo: 'https://d960960gm.wixstudio.com/table-reservations/experience-details?referrer=experiences-list&experienceId=f9af527d-fb85-453d-9ffb-eabeaf51fdbd',
+    localImage: '/assets/wix-table-reservations-and-wix-experiences.avif',
     id: '070'
+  },
+  {
+    title: 'Wix Restaurants Menu & Orders',
+    repo: 'https://d960960gm.wixstudio.com/table-reservations/online-ordering',
+    localImage: '/assets/wix-restaurants-menu-and-orders.avif',
+    id: '071'
   },
 ];
 

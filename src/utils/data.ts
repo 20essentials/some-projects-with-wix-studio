@@ -426,6 +426,12 @@ export const arrayCards = [
     localImage: '/assets/wix-restaurants-menu-and-orders.avif',
     id: '071'
   },
+  {
+    title: 'Wix Online Programs + Categories + Certificate',
+    repo: 'https://d960960gm.wixstudio.com/wix-online-programs/challenges',
+    localImage: '/assets/wix-online-programs.avif',
+    id: '072'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

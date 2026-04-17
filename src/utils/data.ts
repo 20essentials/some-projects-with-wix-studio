@@ -432,6 +432,13 @@ export const arrayCards = [
     localImage: '/assets/wix-online-programs.avif',
     id: '072'
   },
+  {
+    title: 'Wix Services',
+    repo: 'https://d960960gm.wixstudio.com/wix-services/inquiry-services-page',
+    localImage: '/assets/wix-services.avif',
+    id: '073'
+  },
+
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -438,6 +438,12 @@ export const arrayCards = [
     localImage: '/assets/wix-services.avif',
     id: '073'
   },
+  {
+    title: 'Wix Hotels',
+    repo: 'https://d960960gm.wixstudio.com/golden-aurora-hotel/booking-engine#/search',
+    localImage: '/assets/wix-hotels.avif',
+    id: '074'
+  },
 
 ];
 

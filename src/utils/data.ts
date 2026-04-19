@@ -504,6 +504,12 @@ export const arrayCards = [
     localImage: '/assets/wix-tips.avif',
     id: '084'
   },
+  {
+    title: 'Flipbook',
+    repo: 'https://d960960gm.wixstudio.com/projects/flipbook',
+    localImage: '/assets/flipbook.avif',
+    id: '085'
+  },
 
 ];
 

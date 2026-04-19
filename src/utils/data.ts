@@ -109,7 +109,7 @@ export const arrayCards = [
     id: '018'
   },
   {
-    title: 'Printful (Print on Demand) + Wix Stores',
+    title: 'PikaStore: Printful (Print on Demand) + Wix Stores + Wix Gift Cards',
     repo: 'https://d960960gm.wixstudio.com/using-printful/category/all-products',
     localImage: '/assets/printful-practice.avif',
     id: '019'
@@ -497,6 +497,12 @@ export const arrayCards = [
     repo: 'https://d960960gm.wixstudio.com/projects/panorama-viewer-360',
     localImage: '/assets/panorama-viewer-360.avif',
     id: '083'
+  },
+  {
+    title: 'Wix Tips (Mance)',
+    repo: 'https://d960960gm.wixstudio.com/using-printful/product-page/white-glossy-mug',
+    localImage: '/assets/wix-tips.avif',
+    id: '084'
   },
 
 ];

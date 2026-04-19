@@ -450,6 +450,12 @@ export const arrayCards = [
     localImage: '/assets/wix-file-share-app.avif',
     id: '075'
   },
+  {
+    title: 'Wix Donations',
+    repo: 'https://d960960gm.wixstudio.com/wix-donations/donate',
+    localImage: '/assets/wix-donations.avif',
+    id: '076'
+  },
 
 ];
 

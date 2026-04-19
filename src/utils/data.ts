@@ -456,6 +456,12 @@ export const arrayCards = [
     localImage: '/assets/wix-donations.avif',
     id: '076'
   },
+  {
+    title: 'wix FAQ',
+    repo: 'https://d960960gm.wixstudio.com/wix-donations/the-farm?questionId=847ca3f0-5b64-474e-b5f3-411365f893b6',
+    localImage: '/assets/wix-faq.avif',
+    id: '077'
+  },
 
 ];
 

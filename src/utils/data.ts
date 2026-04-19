@@ -492,6 +492,12 @@ export const arrayCards = [
     localImage: '/assets/weather-forecast.avif',
     id: '082'
   },
+  {
+    title: '360 Panorama Viewer',
+    repo: 'https://d960960gm.wixstudio.com/projects/panorama-viewer-360',
+    localImage: '/assets/panorama-viewer-360.avif',
+    id: '083'
+  },
 
 ];
 

@@ -468,6 +468,12 @@ export const arrayCards = [
     localImage: '/assets/google-sheet-table-app.avif',
     id: '078'
   },
+  {
+    title: 'Countdown Clock App',
+    repo: 'https://d960960gm.wixstudio.com/projects/countdown-clock',
+    localImage: '/assets/countdown-clock.avif',
+    id: '079'
+  },
 
 ];
 

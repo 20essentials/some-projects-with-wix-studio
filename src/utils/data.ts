@@ -462,6 +462,12 @@ export const arrayCards = [
     localImage: '/assets/wix-faq.avif',
     id: '077'
   },
+  {
+    title: 'Google Sheet Table App',
+    repo: 'https://d960960gm.wixstudio.com/workflow',
+    localImage: '/assets/google-sheet-table-app.avif',
+    id: '078'
+  },
 
 ];
 

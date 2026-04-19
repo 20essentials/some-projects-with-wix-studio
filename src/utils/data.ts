@@ -474,6 +474,12 @@ export const arrayCards = [
     localImage: '/assets/countdown-clock.avif',
     id: '079'
   },
+  {
+    title: 'PDF Viewer',
+    repo: 'https://d960960gm.wixstudio.com/projects/pdf-viewer',
+    localImage: '/assets/pdf-viewer.avif',
+    id: '080'
+  },
 
 ];
 

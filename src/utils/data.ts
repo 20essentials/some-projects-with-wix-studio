@@ -480,6 +480,18 @@ export const arrayCards = [
     localImage: '/assets/pdf-viewer.avif',
     id: '080'
   },
+  {
+    title: 'Hit Counter App',
+    repo: 'https://d960960gm.wixstudio.com/projects/hit-counter',
+    localImage: '/assets/hit-counter.avif',
+    id: '081'
+  },
+  {
+    title: 'Weather Forecast App',
+    repo: 'https://d960960gm.wixstudio.com/projects/weather-forecast',
+    localImage: '/assets/weather-forecast.avif',
+    id: '082'
+  },
 
 ];
 

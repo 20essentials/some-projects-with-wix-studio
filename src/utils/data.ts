@@ -444,6 +444,12 @@ export const arrayCards = [
     localImage: '/assets/wix-hotels.avif',
     id: '074'
   },
+  {
+    title: 'Wix File Share App',
+    repo: 'https://d960960gm.wixstudio.com/wix-file-share-app/file-share',
+    localImage: '/assets/wix-file-share-app.avif',
+    id: '075'
+  },
 
 ];
 

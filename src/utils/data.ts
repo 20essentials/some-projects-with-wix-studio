@@ -510,6 +510,12 @@ export const arrayCards = [
     localImage: '/assets/flipbook.avif',
     id: '085'
   },
+  {
+    title: 'Slideshow Gallery',
+    repo: 'https://d960960gm.wixstudio.com/projects/slideshow-gallery',
+    localImage: '/assets/slideshow-gallery.avif',
+    id: '086'
+  },
 
 ];
 

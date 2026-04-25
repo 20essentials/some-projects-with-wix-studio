@@ -516,6 +516,12 @@ export const arrayCards = [
     localImage: '/assets/slideshow-gallery.avif',
     id: '086'
   },
+  {
+    title: 'Multistate Box',
+    repo: 'https://d960960gm.wixstudio.com/projects/multistate-box',
+    localImage: '/assets/multistate-box.avif',
+    id: '087'
+  },
 
 ];
 

@@ -522,6 +522,12 @@ export const arrayCards = [
     localImage: '/assets/multistate-box.avif',
     id: '087'
   },
+  {
+    title: 'Reveal Glass',
+    repo: 'https://d960960gm.wixstudio.com/projects/reveal-glass',
+    localImage: '/assets/reveal-glass.avif',
+    id: '088'
+  },
 
 ];
 

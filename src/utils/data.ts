@@ -534,6 +534,12 @@ export const arrayCards = [
     localImage: '/assets/smoothflow.avif',
     id: '089'
   },
+  {
+    title: 'Split Scroll With Flexbox',
+    repo: 'https://d960960gm.wixstudio.com/projects/split-scroll',
+    localImage: '/assets/split-scroll.avif',
+    id: '090'
+  },
 
 ];
 

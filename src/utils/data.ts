@@ -540,6 +540,12 @@ export const arrayCards = [
     localImage: '/assets/split-scroll.avif',
     id: '090'
   },
+  {
+    title: 'Cursor Image Blub',
+    repo: 'https://d960960gm.wixstudio.com/projects/cursor-image-blub',
+    localImage: '/assets/cursor-image-blub.avif',
+    id: '091'
+  },
 
 ];
 

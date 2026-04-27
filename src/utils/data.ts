@@ -528,6 +528,12 @@ export const arrayCards = [
     localImage: '/assets/reveal-glass.avif',
     id: '088'
   },
+  {
+    title: 'Smoothflow',
+    repo: 'https://d960960gm.wixstudio.com/projects/smoothflow',
+    localImage: '/assets/smoothflow.avif',
+    id: '089'
+  },
 
 ];
 

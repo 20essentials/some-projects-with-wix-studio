@@ -546,6 +546,12 @@ export const arrayCards = [
     localImage: '/assets/cursor-image-blub.avif',
     id: '091'
   },
+  {
+    title: 'Qr Code Generator',
+    repo: 'https://d960960gm.wixstudio.com/projects/qr-code-generator',
+    localImage: '/assets/qr-code-generator.avif',
+    id: '092'
+  },
 
 ];
 

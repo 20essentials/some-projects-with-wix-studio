@@ -552,7 +552,7 @@ export const arrayCards = [
     repo: 'https://d960960gm.wixstudio.com/projects/qr-code-generator',
     localImage: '/assets/qr-code-generator.avif',
     id: '092'
-  }
+  },
   {
     title: 'Wixel Experiments',
     repo: 'https://manage.wix.com/wixel-new/dashboard/tools',

@@ -307,7 +307,8 @@ export const arrayCards = [
     id: '051'
   },
   {
-    title: 'Wix Booking + Service List Page + Lessons + Calendar Pick + Daily Agenda + Weekly Timetable',
+    title:
+      'Wix Booking + Service List Page + Lessons + Calendar Pick + Daily Agenda + Weekly Timetable',
     repo: 'https://d960960gm.wixstudio.com/wix-bookings',
     localImage: '/assets/wix-bookings.avif',
     id: '052'
@@ -551,8 +552,13 @@ export const arrayCards = [
     repo: 'https://d960960gm.wixstudio.com/projects/qr-code-generator',
     localImage: '/assets/qr-code-generator.avif',
     id: '092'
-  },
-
+  }
+  {
+    title: 'Wixel Experiments',
+    repo: 'https://manage.wix.com/wixel-new/dashboard/tools',
+    localImage: '/assets/wixel-experiments.avif',
+    id: '093'
+  }
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

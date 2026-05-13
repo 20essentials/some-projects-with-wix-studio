@@ -558,7 +558,13 @@ export const arrayCards = [
     repo: 'https://manage.wix.com/wixel-new/dashboard/tools',
     localImage: '/assets/wixel-experiments.avif',
     id: '093'
-  }
+  },
+  {
+    title: 'Effetti Webgl In Videos',
+    repo: 'https://d960960gm.wixstudio.com/projects/effetti-webgl-in-videos',
+    localImage: '/assets/effetti-webgl-in-videos.avif',
+    id: '094'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

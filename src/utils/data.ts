@@ -565,6 +565,12 @@ export const arrayCards = [
     localImage: '/assets/effetti-webgl-in-videos.avif',
     id: '094'
   },
+  {
+    title: 'Shape Dividers',
+    repo: 'https://d960960gm.wixstudio.com/projects/shape-dividers',
+    localImage: '/assets/shape-dividers.avif',
+    id: '095'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

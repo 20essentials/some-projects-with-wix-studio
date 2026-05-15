@@ -571,6 +571,12 @@ export const arrayCards = [
     localImage: '/assets/shape-dividers.avif',
     id: '095'
   },
+  {
+    title: 'Sticky Cards',
+    repo: 'https://d960960gm.wixstudio.com/projects/sticky-cards',
+    localImage: '/assets/sticky-cards.avif',
+    id: '096'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -577,6 +577,12 @@ export const arrayCards = [
     localImage: '/assets/sticky-cards.avif',
     id: '096'
   },
+  {
+    title: 'Change Gradient On Hover',
+    repo: 'https://d960960gm.wixstudio.com/projects/change-gradient-on-hover',
+    localImage: '/assets/change-gradient-on-hover.avif',
+    id: '097'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -589,6 +589,12 @@ export const arrayCards = [
     localImage: '/assets/flip-card-scroll.avif',
     id: '098'
   },
+  {
+    title: 'Carousel Effect 3d',
+    repo: 'https://d960960gm.wixstudio.com/projects/carousel-effect-3d',
+    localImage: '/assets/carousel-effect-3d.avif',
+    id: '099'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

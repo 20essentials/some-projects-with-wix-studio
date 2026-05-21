@@ -583,6 +583,12 @@ export const arrayCards = [
     localImage: '/assets/change-gradient-on-hover.avif',
     id: '097'
   },
+  {
+    title: 'Flip Card Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/flip-card-scroll',
+    localImage: '/assets/flip-card-scroll.avif',
+    id: '098'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

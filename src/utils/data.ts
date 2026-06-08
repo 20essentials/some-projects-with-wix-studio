@@ -598,7 +598,7 @@ export const arrayCards = [
   {
     title: 'Rotating Scroll Effect',
     repo: 'https://d960960gm.wixstudio.com/projects/rotating-scroll-effect',
-    localImage: '/assets/carousel-effect-3d.avif',
+    localImage: '/assets/rotating-scroll-effect.avif',
     id: '100'
   },
 ];

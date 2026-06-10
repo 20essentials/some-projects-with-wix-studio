@@ -601,6 +601,12 @@ export const arrayCards = [
     localImage: '/assets/rotating-scroll-effect.avif',
     id: '100'
   },
+  {
+    title: 'Horizontal Stack Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/horizontal-stack-scroll',
+    localImage: '/assets/horizontal-stack-scroll.avif',
+    id: '101'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -607,6 +607,12 @@ export const arrayCards = [
     localImage: '/assets/horizontal-stack-scroll.avif',
     id: '101'
   },
+  {
+    title: 'Custom Mask',
+    repo: 'https://d960960gm.wixstudio.com/projects/custom-mask',
+    localImage: '/assets/custom-mask.avif',
+    id: '102'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

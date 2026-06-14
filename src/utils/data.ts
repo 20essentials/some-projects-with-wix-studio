@@ -613,6 +613,12 @@ export const arrayCards = [
     localImage: '/assets/custom-mask.avif',
     id: '102'
   },
+  {
+    title: 'Marquee Section Double',
+    repo: 'https://d960960gm.wixstudio.com/projects/marquee-section-double',
+    localImage: '/assets/marquee-section-double.avif',
+    id: '103'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -268,7 +268,7 @@ export const arrayCards = [
     title: 'Pricing Plans',
     repo: 'https://d960960gm.wixstudio.com/projects/pricing-plans',
     localImage: '/assets/pricing-plan.avif',
-    id: '045'
+    id: '045',
   },
   {
     title: 'Twist Text effect',

@@ -2,11 +2,13 @@
 import { ContainerSilk } from '@/components/background-silk/ContainerSilk';
 import Hero from '@/components/Hero.astro';
 import { ContainerInfiniteMenu } from '@/components/infinite-menu/ContainerInfiniteMenu';
-import Layout from '@/layouts/Layout.astro';
+import LiquidGlass from '@/components/liquid-glass.astro';
+import Layout from '@/layouts/layout.astro';
 ---
 
 <Layout>
   <ContainerSilk client:only='react' />
   <Hero />
   <ContainerInfiniteMenu client:only='react' />
+  <LiquidGlass />
 </Layout>

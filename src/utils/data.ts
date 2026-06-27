@@ -268,7 +268,7 @@ export const arrayCards = [
     title: 'Pricing Plans',
     repo: 'https://d960960gm.wixstudio.com/projects/pricing-plans',
     localImage: '/assets/pricing-plan.avif',
-    id: '045',
+    id: '045'
   },
   {
     title: 'Twist Text effect',
@@ -511,7 +511,7 @@ export const arrayCards = [
     localImage: '/assets/flipbook.avif',
     id: '085'
   },
-/*   {
+  /*   {
     title: 'Slideshow Gallery',
     repo: 'https://d960960gm.wixstudio.com/projects/slideshow-gallery',
     localImage: '/assets/slideshow-gallery.avif',
@@ -618,7 +618,7 @@ export const arrayCards = [
     repo: 'https://d960960gm.wixstudio.com/projects/marquee-section-double',
     localImage: '/assets/marquee-section-double.avif',
     id: '103'
-  },
+  }
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

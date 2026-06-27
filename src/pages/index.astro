@@ -1,5 +1,6 @@
 ---
 import { ContainerSilk } from '@/components/background-silk/ContainerSilk';
+import ContainerCards from '@/components/container-cards.astro';
 import Hero from '@/components/Hero.astro';
 import { ContainerInfiniteMenu } from '@/components/infinite-menu/ContainerInfiniteMenu';
 import LiquidGlass from '@/components/liquid-glass.astro';
@@ -10,5 +11,6 @@ import Layout from '@/layouts/layout.astro';
   <ContainerSilk client:only='react' />
   <Hero />
   <ContainerInfiniteMenu client:only='react' />
+  <ContainerCards />
   <LiquidGlass />
 </Layout>

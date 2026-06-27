@@ -5,7 +5,6 @@ import { arrayCards } from '@/utils/data';
 export const ContainerInfiniteMenu = () => {
   return (
     <InfiniteMenu
-     
       items={arrayCards
         .toSorted(() => Math.random() - 0.5)
         .map(({ id, localImage, repo, title }, i) => ({
@@ -14,8 +13,6 @@ export const ContainerInfiniteMenu = () => {
           link: repo,
           description: title
         }))}
-
-
     />
   );
 };

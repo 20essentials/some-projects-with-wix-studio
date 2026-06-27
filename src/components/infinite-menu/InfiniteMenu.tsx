@@ -1303,7 +1303,7 @@ const InfiniteMenu: FC<InfiniteMenuProps> = ({ items = [], scale = 1.0 }) => {
   };
 
   return (
-    <div className='relative w-full h-screen z-10 bg-transparent snapted'>
+    <div className='relative w-full h-screen z-10 bg-transparent snapted am-container-infinite-menu'>
       <canvas
         id='infinite-grid-menu-canvas'
         ref={canvasRef}

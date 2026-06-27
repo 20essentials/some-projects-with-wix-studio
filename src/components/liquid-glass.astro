@@ -391,4 +391,19 @@
   };
 
   trackPrevious(switcher as HTMLElement);
+
+  const initiallyChecked = document.querySelector<HTMLInputElement>(
+    'input[type="radio"]:checked'
+  );
+  if (initiallyChecked) {
+    document.documentElement.dataset.theme = initiallyChecked.value;
+  }
+
+  document.querySelectorAll<HTMLInputElement>('input[type="radio"]').forEach(radio => {
+    radio.addEventListener('change', () => {
+      if (radio.checked) {
+        document.documentElement.dataset.theme = radio.value;
+      }
+    });
+  });
 </script>

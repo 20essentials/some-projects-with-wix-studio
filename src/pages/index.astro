@@ -14,3 +14,10 @@ import Layout from '@/layouts/layout.astro';
   <ContainerCards />
   <LiquidGlass />
 </Layout>
+
+<style is:global>
+  [data-theme='light'] .am-container-infinite-menu { display: none; }
+  [data-theme='light'] .am-container-cards { display: grid; }
+  [data-theme='dark'] .am-container-cards { display: none; }
+  [data-theme='dark'] .am-container-infinite-menu { display: initial; }
+</style>

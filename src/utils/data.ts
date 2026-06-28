@@ -618,7 +618,19 @@ export const arrayCards = [
     repo: 'https://d960960gm.wixstudio.com/projects/marquee-section-double',
     localImage: '/assets/marquee-section-double.avif',
     id: '103'
-  }
+  },
+  {
+    title: 'Face Mouse Parallax',
+    repo: 'https://d960960gm.wixstudio.com/projects/face-mouse-parallax',
+    localImage: '/assets/face-mouse-parallax.avif',
+    id: '104'
+  },
+  {
+    title: 'Section Up Reveal Effect',
+    repo: 'https://d960960gm.wixstudio.com/projects/section-up-reveal-effect',
+    localImage: '/assets/section-up-reveal-effect.avif',
+    id: '105'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

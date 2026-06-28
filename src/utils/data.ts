@@ -649,6 +649,12 @@ export const arrayCards = [
     localImage: '/assets/section-grid-mech.avif',
     id: '108'
   },
+  {
+    title: 'Section Parallax Text Marquee Double',
+    repo: 'https://d960960gm.wixstudio.com/projects/section-parallax-text-marquee-double',
+    localImage: '/assets/section-parallax-text-marquee-double.avif',
+    id: '109'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

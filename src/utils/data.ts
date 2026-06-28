@@ -631,6 +631,12 @@ export const arrayCards = [
     localImage: '/assets/section-up-reveal-effect.avif',
     id: '105'
   },
+  {
+    title: 'Sticky Circle Image Scroll Animation',
+    repo: 'https://d960960gm.wixstudio.com/projects/sticky-circle-image-scroll-animation',
+    localImage: '/assets/sticky-circle-image-scroll-animation.avif',
+    id: '106'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

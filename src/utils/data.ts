@@ -637,6 +637,18 @@ export const arrayCards = [
     localImage: '/assets/sticky-circle-image-scroll-animation.avif',
     id: '106'
   },
+  {
+    title: 'Sticky Card Triple',
+    repo: 'https://d960960gm.wixstudio.com/projects/sticky-card-triple',
+    localImage: '/assets/sticky-card-triple.avif',
+    id: '107'
+  },
+  {
+    title: 'Section Grid Mech',
+    repo: 'https://d960960gm.wixstudio.com/projects/section-grid-mech',
+    localImage: '/assets/section-grid-mech.avif',
+    id: '108'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

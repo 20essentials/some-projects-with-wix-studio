@@ -661,6 +661,24 @@ export const arrayCards = [
     localImage: '/assets/section-triple-balance.avif',
     id: '110'
   },
+  {
+    title: 'Section Cards Simet',
+    repo: 'https://d960960gm.wixstudio.com/projects/section-triple-balance',
+    localImage: '/assets/section-cards-simet.avif',
+    id: '111'
+  },
+  {
+    title: 'Section Founders',
+    repo: 'https://d960960gm.wixstudio.com/projects/section-triple-balance',
+    localImage: '/assets/section-founders.avif',
+    id: '112'
+  },
+  {
+    title: 'Fixed Anglo Cards',
+    repo: 'https://d960960gm.wixstudio.com/projects/section-triple-balance',
+    localImage: '/assets/fixed-anglo-cards.avif',
+    id: '113'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

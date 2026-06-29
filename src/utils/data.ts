@@ -679,6 +679,18 @@ export const arrayCards = [
     localImage: '/assets/fixed-anglo-cards.avif',
     id: '113'
   },
+  {
+    title: 'Bold Black Background',
+    repo: 'https://d960960gm.wixstudio.com/projects/bold-sneaker',
+    localImage: '/assets/bold-black-background.avif',
+    id: '114'
+  },
+  {
+    title: 'Bold Sneaker',
+    repo: 'https://d960960gm.wixstudio.com/projects/bold-sneaker',
+    localImage: '/assets/bold-sneaker.avif',
+    id: '115'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

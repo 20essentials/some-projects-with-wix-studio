@@ -655,6 +655,12 @@ export const arrayCards = [
     localImage: '/assets/section-parallax-text-marquee-double.avif',
     id: '109'
   },
+  {
+    title: 'Section Triple Balance',
+    repo: 'https://d960960gm.wixstudio.com/projects/section-triple-balance',
+    localImage: '/assets/section-triple-balance.avif',
+    id: '110'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

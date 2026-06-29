@@ -691,6 +691,24 @@ export const arrayCards = [
     localImage: '/assets/bold-sneaker.avif',
     id: '115'
   },
+  {
+    title: 'Hover Slips',
+    repo: 'https://d960960gm.wixstudio.com/projects/belsurance-sections',
+    localImage: '/assets/hover-slips.avif',
+    id: '116'
+  },
+  {
+    title: 'Fixed Center Text',
+    repo: 'https://d960960gm.wixstudio.com/projects/belsurance-sections',
+    localImage: '/assets/fixed-center-text.avif',
+    id: '117'
+  },
+  {
+    title: 'Testimonial Balance Cards',
+    repo: 'https://d960960gm.wixstudio.com/projects/belsurance-sections',
+    localImage: '/assets/testimonial-balance-cards.avif',
+    id: '118'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

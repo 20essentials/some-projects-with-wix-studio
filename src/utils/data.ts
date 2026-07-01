@@ -775,6 +775,48 @@ export const arrayCards = [
     localImage: '/assets/random-section-4.avif',
     id: '129'
   },
+  {
+    title: 'Impresa di costruzioni Base',
+    repo: 'https://d960960gm.wixstudio.com/impresa-costruzioni',
+    localImage: '/assets/impresa-di-costruzioni-base.avif',
+    id: '130'
+  },
+  {
+    title: 'Beauty Rituals',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-1',
+    localImage: '/assets/beauty-rituals.avif',
+    id: '131'
+  },
+  {
+    title: 'Random Section 5',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-2',
+    localImage: '/assets/random-section-5.avif',
+    id: '132'
+  },
+  {
+    title: 'Random Section 6',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-2',
+    localImage: '/assets/random-section-6.avif',
+    id: '133'
+  },
+  {
+    title: 'Random Section 7',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-2',
+    localImage: '/assets/random-section-7.avif',
+    id: '134'
+  },
+  {
+    title: 'Random Section 8',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-2',
+    localImage: '/assets/random-section-8.avif',
+    id: '135'
+  },
+  {
+    title: 'Agente Immobiliare Web',
+    repo: 'https://d960960gm.wixstudio.com/agente-immobiliare',
+    localImage: '/assets/agente-immobiliare-web.avif',
+    id: '136'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

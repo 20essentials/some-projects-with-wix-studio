@@ -745,6 +745,36 @@ export const arrayCards = [
     localImage: '/assets/builder-section-3.avif',
     id: '124'
   },
+  {
+    title: 'Section Grid Xit',
+    repo: 'https://d960960gm.wixstudio.com/projects/beac',
+    localImage: '/assets/section-grid-xit.avif',
+    id: '125'
+  },
+  {
+    title: 'Random Section 1',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-1',
+    localImage: '/assets/random-section-1.avif',
+    id: '126'
+  },
+  {
+    title: 'Random Section 2',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-1',
+    localImage: '/assets/random-section-2.avif',
+    id: '127'
+  },
+  {
+    title: 'Random Section 3',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-1',
+    localImage: '/assets/random-section-3.avif',
+    id: '128'
+  },
+  {
+    title: 'Random Section 4',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-1',
+    localImage: '/assets/random-section-4.avif',
+    id: '129'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

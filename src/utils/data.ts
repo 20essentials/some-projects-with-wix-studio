@@ -721,6 +721,30 @@ export const arrayCards = [
     localImage: '/assets/scroll-accumulator.avif',
     id: '120'
   },
+  {
+    title: 'Gallery Build',
+    repo: 'https://d960960gm.wixstudio.com/build/gallery-build',
+    localImage: '/assets/gallery-build.avif',
+    id: '121'
+  },
+  {
+    title: 'Builder Section 1',
+    repo: 'https://d960960gm.wixstudio.com/projects/builder-sections',
+    localImage: '/assets/builder-section-1.avif',
+    id: '122'
+  },
+  {
+    title: 'Builder Section 2',
+    repo: 'https://d960960gm.wixstudio.com/projects/builder-sections',
+    localImage: '/assets/builder-section-2.avif',
+    id: '123'
+  },
+  {
+    title: 'Builder Section 3',
+    repo: 'https://d960960gm.wixstudio.com/projects/builder-sections',
+    localImage: '/assets/builder-section-3.avif',
+    id: '124'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

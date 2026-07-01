@@ -709,6 +709,18 @@ export const arrayCards = [
     localImage: '/assets/testimonial-balance-cards.avif',
     id: '118'
   },
+  {
+    title: 'Simple Hover Item',
+    repo: 'https://d960960gm.wixstudio.com/projects/beac',
+    localImage: '/assets/simple-hover-item.avif',
+    id: '119'
+  },
+  {
+    title: 'Scroll Accumulator',
+    repo: 'https://d960960gm.wixstudio.com/projects/beac',
+    localImage: '/assets/scroll-accumulator.avif',
+    id: '120'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

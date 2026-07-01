@@ -817,6 +817,60 @@ export const arrayCards = [
     localImage: '/assets/agente-immobiliare-web.avif',
     id: '136'
   },
+  {
+    title: 'Entrance Animation',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-2',
+    localImage: '/assets/entrance-animation.avif',
+    id: '137'
+  },
+  {
+    title: 'Map',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-2',
+    localImage: '/assets/map.avif',
+    id: '138'
+  },
+  {
+    title: 'Circle Path Scroll Animation',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-2',
+    localImage: '/assets/circle-path-scroll-animation.avif',
+    id: '139'
+  },
+  {
+    title: 'Circle Path Entrance Animation',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-2',
+    localImage: '/assets/circle-path-entrance-animation.avif',
+    id: '140'
+  },
+  {
+    title: 'Hero Section Parallax',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-3',
+    localImage: '/assets/hero-section-parallax.avif',
+    id: '141'
+  },
+  {
+    title: 'Lines Effect Reveal',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-3',
+    localImage: '/assets/lines-effect-reveal.avif',
+    id: '142'
+  },
+  {
+    title: 'Store Example',
+    repo: 'https://d960960gm.wixstudio.com/store-example',
+    localImage: '/assets/store-example.avif',
+    id: '143'
+  },
+  {
+    title: 'DueTo Template Beautiful',
+    repo: 'https://d960960gm.wixstudio.com/dueto-template',
+    localImage: '/assets/dueto-template.avif',
+    id: '144'
+  },
+  {
+    title: 'Gallery Minimalist',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-3',
+    localImage: '/assets/gallery-minimalist.avif',
+    id: '145'
+  }
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

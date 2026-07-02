@@ -883,6 +883,24 @@ export const arrayCards = [
     localImage: '/assets/store-streetwear-fashion.avif',
     id: '147'
   },
+  {
+    title: 'Acumulador on top',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-3',
+    localImage: '/assets/acumulador-on-top.avif',
+    id: '148'
+  },
+  {
+    title: 'Reveal Grid Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-4',
+    localImage: '/assets/reveal-grid-scroll.avif',
+    id: '149'
+  },
+  {
+    title: 'Reveal Image and Line by Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-4',
+    localImage: '/assets/reveal-image-and-line-by-scroll.avif',
+    id: '150'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

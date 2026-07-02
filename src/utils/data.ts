@@ -870,7 +870,19 @@ export const arrayCards = [
     repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-3',
     localImage: '/assets/gallery-minimalist.avif',
     id: '145'
-  }
+  },
+  {
+    title: 'Store Streetwear Fashion',
+    repo: '',
+    localImage: '/assets/store-streetwear-fashion.avif',
+    id: '146'
+  },
+  {
+    title: 'Store Streetwear Fashion',
+    repo: 'https://d960960gm.wixstudio.com/store-streetwear',
+    localImage: '/assets/store-streetwear-fashion.avif',
+    id: '147'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

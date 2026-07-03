@@ -901,6 +901,12 @@ export const arrayCards = [
     localImage: '/assets/reveal-image-and-line-by-scroll.avif',
     id: '150'
   },
+  {
+    title: 'Minimalist Wix Pro Gallery',
+    repo: 'https://d960960gm.wixstudio.com/minimalist-gallery/minimalist-gallery',
+    localImage: '/assets/minimalist-gallery.avif',
+    id: '151'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

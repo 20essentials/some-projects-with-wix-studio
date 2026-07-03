@@ -955,35 +955,95 @@ export const arrayCards = [
     localImage: '/assets/wix-madefor-display-bold.avif',
     id: '158'
   },
-    {
+  {
     title: 'Random Section 9',
     repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-6',
     localImage: '/assets/random-section-9.avif',
     id: '159'
   },
-    {
+  {
     title: 'Scroll Fixed Card Rotated',
     repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-6',
     localImage: '/assets/scroll-fixed-card-rotated.avif',
     id: '160'
   },
-    {
+  {
     title: 'Arc Entrance',
     repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-6',
     localImage: '/assets/arc-entrance.avif',
     id: '161'
   },
-    {
+  {
     title: 'Template With Nice Scroll Reveals',
     repo: 'https://d960960gm.wixstudio.com/nice-scroll-reveals',
     localImage: '/assets/template-with-nice-scroll-reveals.avif',
     id: '162'
   },
-      {
+  {
     title: '3D Flipping Card',
     repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-6',
     localImage: '/assets/3d-flipping-card.avif',
     id: '163'
+  },
+  {
+    title: 'sonic-beats',
+    repo: 'https://d960960gm.wixstudio.com/sonic-beats',
+    localImage: '/assets/sonic-beats.avif',
+    id: '164'
+  },
+  {
+    title: 'Gradient Transparent Over a Section',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-7',
+    localImage: '/assets/gradient-transparent-over-a-section.avif',
+    id: '165'
+  },
+  {
+    title: 'Fixed Cards Over Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-7',
+    localImage: '/assets/fixed-cards-over-scroll.avif',
+    id: '166'
+  },
+  {
+    title: 'Nice Button and Clip Path Circle Scrollable',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-7',
+    localImage: '/assets/fixed-cards-over-scroll.avif',
+    id: '167'
+  },
+  {
+    title: 'Column Text Scroll Y',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-7',
+    localImage: '/assets/fixed-cards-over-scroll.avif',
+    id: '168'
+  },
+  {
+    title: 'Scrollable Fixed LineItems',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-7',
+    localImage: '/assets/scrollable-fixed-lineitems.avif',
+    id: '169'
+  },
+  {
+    title: 'Text to Top Scroll Effect',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-7',
+    localImage: '/assets/text-to-top-scroll-effect.avif',
+    id: '170'
+  },
+  {
+    title: 'Scroll Text to Top ',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-7',
+    localImage: '/assets/scroll-text-to-top.avif',
+    id: '171'
+  },
+  {
+    title: 'Immersive online brand Grid',
+    repo: 'https://d960960gm.wixstudio.com/immersive-grid',
+    localImage: '/assets/immersive-grid.avif',
+    id: '172'
+  },
+  {
+    title: 'Lightweight Web',
+    repo: 'https://d960960gm.wixstudio.com/lightweight-web',
+    localImage: '/assets/lightweight-web.avif',
+    id: '173'
   },
 ];
 

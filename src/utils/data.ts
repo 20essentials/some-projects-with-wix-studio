@@ -907,6 +907,84 @@ export const arrayCards = [
     localImage: '/assets/minimalist-gallery.avif',
     id: '151'
   },
+  {
+    title: 'Card Aerolinea Style',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-5',
+    localImage: '/assets/card-aerolinea-style.avif',
+    id: '151'
+  },
+  {
+    title: 'Timebalance Fixed Cards',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-5',
+    localImage: '/assets/timebalance-fixed-cards.avif',
+    id: '152'
+  },
+  {
+    title: 'Testimonials Slider and Video transparent',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-5',
+    localImage: '/assets/testimonials-slider-and-video-transparent.avif',
+    id: '153'
+  },
+  {
+    title: 'Pizza Fixed Card with Rotate and Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-5',
+    localImage: '/assets/pizza-fixed-card-with-rotate-and-scroll.avif',
+    id: '154'
+  },
+  {
+    title: 'Reverse Clip Path Rectangle with Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-5',
+    localImage: '/assets/reverse-clip-path-rectangle-with-scroll.avif',
+    id: '155'
+  },
+  {
+    title: 'Footer Grid Design',
+    repo: 'https://d960960gm.wixstudio.com/sparke/footer-grid-design',
+    localImage: '/assets/footer-grid-design.avif',
+    id: '156'
+  },
+  {
+    title: 'Flower Shop Template',
+    repo: 'https://d960960gm.wixstudio.com/flower-shop/our-story',
+    localImage: '/assets/flower-shop-template.avif',
+    id: '157'
+  },
+  {
+    title: 'Wix Madefor Display Bold (Font)',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-5',
+    localImage: '/assets/wix-madefor-display-bold.avif',
+    id: '158'
+  },
+    {
+    title: 'Random Section 9',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-6',
+    localImage: '/assets/random-section-9.avif',
+    id: '159'
+  },
+    {
+    title: 'Scroll Fixed Card Rotated',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-6',
+    localImage: '/assets/scroll-fixed-card-rotated.avif',
+    id: '160'
+  },
+    {
+    title: 'Arc Entrance',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-6',
+    localImage: '/assets/arc-entrance.avif',
+    id: '161'
+  },
+    {
+    title: 'Template With Nice Scroll Reveals',
+    repo: 'https://d960960gm.wixstudio.com/nice-scroll-reveals',
+    localImage: '/assets/template-with-nice-scroll-reveals.avif',
+    id: '162'
+  },
+      {
+    title: '3D Flipping Card',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-6',
+    localImage: '/assets/3d-flipping-card.avif',
+    id: '163'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

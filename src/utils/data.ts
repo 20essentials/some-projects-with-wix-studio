@@ -1045,6 +1045,42 @@ export const arrayCards = [
     localImage: '/assets/lightweight-web.avif',
     id: '173'
   },
+  {
+    title: 'Arc Title Entrance Animations And Fixed Sections',
+    repo: 'https://d960960gm.wixstudio.com/arc-title-entrance',
+    localImage: '/assets/arc-title-entrance-animations-and-fixed-sections.avif',
+    id: '174'
+  },
+  {
+    title: 'Cards Following The Mouse',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-8',
+    localImage: '/assets/cards-following-the-mouse.avif',
+    id: '175'
+  },
+  {
+    title: 'Parallax Text',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-8',
+    localImage: '/assets/parallax-text.avif',
+    id: '176'
+  },
+  {
+    title: 'Video and Images Following the Mouse',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-8',
+    localImage: '/assets/video-and-images-following-the-mouse.avif',
+    id: '177'
+  },
+  {
+    title: 'Scroll Move Section Horizontal',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-8',
+    localImage: '/assets/scroll-move-section-horizontal.avif',
+    id: '178'
+  },
+  {
+    title: 'Grow and Shrink Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-8',
+    localImage: '/assets/grow-and-shrink-scroll.avif',
+    id: '179'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

@@ -1081,6 +1081,150 @@ export const arrayCards = [
     localImage: '/assets/grow-and-shrink-scroll.avif',
     id: '179'
   },
+  {
+    title: 'Stagger Cards',
+    repo: 'https://d960960gm.wixstudio.com/edge-tech',
+    localImage: '/assets/stagger-cards.avif',
+    id: '180'
+  },
+  {
+    title: 'Mousemove rotate Card',
+    repo: 'https://d960960gm.wixstudio.com/edge-tech',
+    localImage: '/assets/mousemove-rotate-card.avif',
+    id: '181'
+  },
+  {
+    title: 'Riverside Hero Section For Restaurant',
+    repo: 'https://d960960gm.wixstudio.com/riverside-hero',
+    localImage: '/assets/riverside-hero-section-for-restaurant.avif',
+    id: '182'
+  },
+  {
+    title: 'Nail Template',
+    repo: 'https://d960960gm.wixstudio.com/nail-template',
+    localImage: '/assets/nail-template.avif',
+    id: '183'
+  },
+  {
+    title: 'Card Flipped on Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-8',
+    localImage: '/assets/card-flipped-on-scroll.avif',
+    id: '184'
+  },
+  {
+    title: 'Card Reveal Two Things at the same Time',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-8',
+    localImage: '/assets/card-flipped-on-scroll.avif',
+    id: '185'
+  },
+  {
+    title: 'Cards Flipped on Entrance',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-8',
+    localImage: '/assets/cards-flipped-on-entrance.avif',
+    id: '186'
+  },
+  {
+    title: 'Hover Item and Move it horizontally',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-8',
+    localImage: '/assets/hover-item-and-move-it-horizontally.avif',
+    id: '187'
+  },
+  {
+    title: 'House World Template',
+    repo: 'https://d960960gm.wixstudio.com/house-world',
+    localImage: '/assets/house-world-template.avif',
+    id: '188'
+  },
+  {
+    title: 'Fixed Cards and Section Over Effect',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-9',
+    localImage: '/assets/fixed-cards-and-section-over-effect.avif',
+    id: '189'
+  },
+  {
+    title: 'Nice Products Section',
+    repo: 'https://d960960gm.wixstudio.com/nice-product-section',
+    localImage: '/assets/nice-products-section.avif',
+    id: '190'
+  },
+  {
+    title: 'Minimalist Site with Line Reveals',
+    repo: 'https://d960960gm.wixstudio.com/vertical-line-reveal',
+    localImage: '/assets/minimalist-site-with-line-reveals.avif',
+    id: '191'
+  },
+  {
+    title: 'Scrollable Flip Cards Reveal',
+    repo: 'https://d960960gm.wixstudio.com/scrollable-flip',
+    localImage: '/assets/scrollable-flip-cards-reveal.avif',
+    id: '192'
+  },
+  {
+    title: 'progallery-infinity',
+    repo: 'https://d960960gm.wixstudio.com/progallery-infinity',
+    localImage: '/assets/progallery-infinity.avif',
+    id: '193'
+  },
+  {
+    title: 'Effetto Rivela in Repeatear',
+    repo: 'https://d960960gm.wixstudio.com/effetto-rivela-in-repeatear',
+    localImage: '/assets/effetto-rivela-in-repeatear.avif',
+    id: '194'
+  },
+  {
+    title: 'Card Rotating By Mouse',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-9',
+    localImage: '/assets/card-rotating-by-mouse.avif',
+    id: '195'
+  },
+  {
+    title: 'Parallax Over Collapse Effect',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-9',
+    localImage: '/assets/card-rotating-by-mouse.avif',
+    id: '196'
+  },
+  {
+    title: 'Text Font Size Animation',
+    repo: 'https://d960960gm.wixstudio.com/momentum',
+    localImage: '/assets/text-font-size-animation.avif',
+    id: '197'
+  },
+  {
+    title: 'Effetto Mouse Inclina 3d in Pro Gallery',
+    repo: 'https://d960960gm.wixstudio.com/momentum',
+    localImage: '/assets/effetto-mouse-inclina-3d-in-pro-gallery.avif',
+    id: '198'
+  },
+  {
+    title: 'Opacity and Transform Y animation',
+    repo: 'https://d960960gm.wixstudio.com/momentum',
+    localImage: '/assets/opacity-and-transform-y-animation.avif',
+    id: '199'
+  },
+  {
+    title: 'Grow effect',
+    repo: 'https://d960960gm.wixstudio.com/conl3vel',
+    localImage: '/assets/grow-effect.avif',
+    id: '200'
+  },
+  {
+    title: 'Stagger Item Grow',
+    repo: 'https://d960960gm.wixstudio.com/conl3vel',
+    localImage: '/assets/grow-effect.avif',
+    id: '201'
+  },
+  {
+    title: 'Rotate and Move Ball with Scroll',
+    repo: 'https://d960960gm.wixstudio.com/conl3vel',
+    localImage: '/assets/rotate-and-move-ball-with-scroll.avif',
+    id: '202'
+  },
+  {
+    title: 'Nice Cursor and Form Images',
+    repo: 'https://d960960gm.wixstudio.com/chis',
+    localImage: '/assets/nice-cursor-and-form-images.avif',
+    id: '203'
+  },
 ];
 
 export const TITLE = `${arrayCards.length} Projects using Wix Studio`;

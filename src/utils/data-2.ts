@@ -94,4 +94,124 @@ export const data2 = [
     localImage: '/assets/beautiful-pointed-cards.avif',
     id: '215'
   },
+  {
+    title: 'Hero Square',
+    repo: 'https://d960960gm.wixstudio.com/hero-square',
+    localImage: '/assets/hero-square.avif',
+    id: '216'
+  },
+  {
+    title: 'Lindo Menu e Imagenes Transparentes con Mousemove',
+    repo: 'https://d960960gm.wixstudio.com/timeless',
+    localImage: '/assets/lindo-menu-e-imagenes-transparentes-con-mousemove.avif',
+    id: '217'
+  },
+  {
+    title: 'Section con Imagenes Transparentes en Parallax Scroll',
+    repo: 'https://d960960gm.wixstudio.com/timeless',
+    localImage: '/assets/lindo-menu-e-imagenes-transparentes-con-mousemove.avif',
+    id: '218'
+  },
+  {
+    title: 'Product Category with rounded corners',
+    repo: 'https://d960960gm.wixstudio.com/timeless',
+    localImage: '/assets/product-category-with-rounded-corners.avif',
+    id: '219'
+  },
+  {
+    title: 'Table Reservation Section With nice Palette',
+    repo: 'https://d960960gm.wixstudio.com/treservation',
+    localImage: '/assets/.avif',
+    id: '220'
+  },
+  {
+    title: 'Grow Video By Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-10',
+    localImage: '/assets/.avif',
+    id: '221'
+  },
+  {
+    title: 'Scroll Section in Horizontal',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-10',
+    localImage: '/assets/scroll-section-in-horizontal.avif',
+    id: '222'
+  },
+  {
+    title: 'Hero with 3D Video',
+    repo: 'https://d960960gm.wixstudio.com/wrapdesign',
+    localImage: '/assets/hero-with-3d-video.avif',
+    id: '223'
+  },
+  {
+    title: 'Hover Item with Video behind',
+    repo: 'https://d960960gm.wixstudio.com/wrapdesign',
+    localImage: '/assets/hover-item-with-video-behind.avif',
+    id: '224'
+  },
+  {
+    title: 'Hover Item with Section Change',
+    repo: 'https://d960960gm.wixstudio.com/wrapdesign',
+    localImage: '/assets/hover-item-with-section-change.avif',
+    id: '225'
+  },
+  {
+    title: 'Text Marquee Medium and Tiny',
+    repo: 'https://d960960gm.wixstudio.com/wrapdesign',
+    localImage: '/assets/text-marquee-medium-and-tiny.avif',
+    id: '226'
+  },
+  {
+    title: 'Astronauta Moviendose por el Scroll',
+    repo: 'https://d960960gm.wixstudio.com/cosmic-scroll',
+    localImage: '/assets/astronauta-moviendose-por-el-scroll.avif',
+    id: '227'
+  },
+  {
+    title: 'Letter Writing Effect',
+    repo: 'https://d960960gm.wixstudio.com/cosmic-scroll',
+    localImage: '/assets/letter-writing-effect.avif',
+    id: '228'
+  },
+  {
+    title: 'Imagenes Separadas y Unidas por el scroll',
+    repo: 'https://d960960gm.wixstudio.com/cosmic-scroll',
+    localImage: '/assets/imagenes-separadas-y-unidas-por-el-scroll.avif',
+    id: '229'
+  },
+  {
+    title: 'Move Section in Horizontal and Rotate Planets',
+    repo: 'https://d960960gm.wixstudio.com/cosmic-scroll',
+    localImage: '/assets/move-section-in-horizontal-and-rotate-planets.avif',
+    id: '230'
+  },
+  {
+    title: 'Fill Reveal Line By Scroll',
+    repo: 'https://d960960gm.wixstudio.com/cosmic-scroll',
+    localImage: '/assets/fill-reveal-line-by-scroll.avif',
+    id: '231'
+  },
+  {
+    title: 'Show and blur letters By Scroll',
+    repo: 'https://d960960gm.wixstudio.com/cosmic-scroll',
+    localImage: '/assets/show-and-blur-letters-by-scroll.avif',
+    id: '232'
+  },
+  {
+    title: 'Piper Brutalist Section',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-11',
+    localImage: '/assets/show-and-blur-letters-by-scroll.avif',
+    id: '233'
+  },
+  {
+    title: 'Gym Web',
+    repo: 'https://d960960gm.wixstudio.com/gym-web',
+    localImage: '/assets/gym-web.avif',
+    id: '234'
+  },
+  {
+    title: 'Scroll Rotate Character',
+    repo: 'https://d960960gm.wixstudio.com/gym-web',
+    localImage: '/assets/scroll-rotate-character.avif',
+    id: '235'
+  },
 ];

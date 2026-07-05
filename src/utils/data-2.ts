@@ -214,4 +214,52 @@ export const data2 = [
     localImage: '/assets/scroll-rotate-character.avif',
     id: '235'
   },
+  {
+    title: 'Metallic Image Text with MouseFollow',
+    repo: 'https://d960960gm.wixstudio.com/astro',
+    localImage: '/assets/metallic-image-text-with-mousefollow.avif',
+    id: '236'
+  },
+  {
+    title: 'Beautiful Card Design',
+    repo: 'https://d960960gm.wixstudio.com/astro',
+    localImage: '/assets/beautiful-card-design.avif',
+    id: '237'
+  },
+  {
+    title: 'Reveal Section Overlay Color',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-11',
+    localImage: '/assets/reveal-section-overlay-color.avif',
+    id: '238'
+  },
+  {
+    title: 'Video Transparent Of Blum Blue',
+    repo: 'https://d960960gm.wixstudio.com/manage',
+    localImage: '/assets/video-transparent-of-blum-blue.avif',
+    id: '239'
+  },
+  {
+    title: 'Video Transparent with Stagged Coins',
+    repo: 'https://d960960gm.wixstudio.com/manage',
+    localImage: '/assets/video-transparent-with-stagged-coins.avif',
+    id: '240'
+  },
+  {
+    title: 'Card Images Move Position',
+    repo: 'https://d960960gm.wixstudio.com/manage',
+    localImage: '/assets/card-images-move-position.avif',
+    id: '241'
+  },
+  {
+    title: 'Group Cards Video',
+    repo: 'https://d960960gm.wixstudio.com/manage/the-card',
+    localImage: '/assets/group-cards-video.avif',
+    id: '242'
+  },
+  {
+    title: 'Fixed Footer Effect and Mask Text Color and Section Color',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-11',
+    localImage: '/assets/fixed-footer-effect-and-mask-text-color-and-section-color.avif',
+    id: '243'
+  },
 ];

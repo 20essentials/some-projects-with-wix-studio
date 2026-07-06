@@ -259,7 +259,155 @@ export const data2 = [
   {
     title: 'Fixed Footer Effect and Mask Text Color and Section Color',
     repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-11',
-    localImage: '/assets/fixed-footer-effect-and-mask-text-color-and-section-color.avif',
+    localImage:
+      '/assets/fixed-footer-effect-and-mask-text-color-and-section-color.avif',
     id: '243'
   },
+  {
+    title: 'Services Section with Fixed Items',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-11',
+    localImage:
+      '/assets/fixed-footer-effect-and-mask-text-color-and-section-color.avif',
+    id: '244'
+  },
+  {
+    title: 'Partes Unidas con Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-12',
+    localImage: '/assets/partes-unidas-con-scroll.avif',
+    id: '245'
+  },
+  {
+    title: 'Diferentes Items Volviendo a su Initial Position',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-12',
+    localImage: '/assets/diferentes-items-volviendo-a-su-initial-position.avif',
+    id: '246'
+  },
+  {
+    title: 'Store Sneakers',
+    repo: 'https://d960960gm.wixstudio.com/store-sneakers',
+    localImage: '/assets/store-sneakers.avif',
+    id: '247'
+  },
+  {
+    title: 'Video Items with Mask',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-12',
+    localImage: '/assets/video-items-with-mask.avif',
+    id: '248'
+  },
+  {
+    title: 'Reveal Gallery After a Fixed Section',
+    repo: 'https://d960960gm.wixstudio.com/luma',
+    localImage: '/assets/reveal-gallery-after-a-fixed-section.avif',
+    id: '249'
+  },
+  {
+    title: 'Scroll Circle Clip-Path with a single Color',
+    repo: 'https://d960960gm.wixstudio.com/luma',
+    localImage: '/assets/scroll-circle-clip-path-with-a-single-color.avif',
+    id: '250'
+  },
+  {
+    title: 'Big Text With Mousemove Follow',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-12',
+    localImage: '/assets/big-text-with-mousemove-follow.avif',
+    id: '251'
+  },
+  {
+    title: 'Logistic Template Grid',
+    repo: 'https://d960960gm.wixstudio.com/logistic-templates',
+    localImage: '/assets/logistic-templates.avif',
+    id: '252'
+  },
+  {
+    title: 'Grid Clip Path Entrance',
+    repo: 'https://d960960gm.wixstudio.com/logistic-templates',
+    localImage: '/assets/grid-clip-path.avif',
+    id: '253'
+  },
+  {
+    title: 'Images Grow on Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-12',
+    localImage: '/assets/images-grow-on-scroll.avif',
+    id: '254'
+  },
+  {
+    title: 'Text Translate Y and Opacity',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-12',
+    localImage: '/assets/text-translate-y-and-opacity.avif',
+    id: '255'
+  },
+  {
+    title: 'Sections Hidden and Showed in Entrance Animation',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-12',
+    localImage: '/assets/sections-hidden-and-showed-in-entrance-animation.avif',
+    id: '256'
+  },
+  {
+    title: 'Fixed Circle Focal Point',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-12',
+    localImage: '/assets/fixed-circle-focal-point.avif',
+    id: '257'
+  },
+  {
+    title: 'Rotate Section Cells by Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-12',
+    localImage: '/assets/rotate-section-cells-by-scroll.avif',
+    id: '258'
+  },
+  {
+    title: 'Rotate Images By Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-12',
+    localImage: '/assets/rotate-images-by-scroll.avif',
+    id: '259'
+  },
+  {
+    title: 'Free Style Pro Gallery',
+    repo: 'https://d960960gm.wixstudio.com/gallery-free/projects',
+    localImage: '/assets/free-style-pro-gallery.avif',
+    id: '260'
+  },
+  {
+    title: 'Deslizar Texto en ambos Lados',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-13',
+    localImage: '/assets/deslizar-texto-en-ambos-lados.avif',
+    id: '261'
+  },
+  {
+    title: 'Floating Images',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-13',
+    localImage: '/assets/floating-images.avif',
+    id: '262'
+  },
+  {
+    title: 'Oversea',
+    repo: 'https://d960960gm.wixstudio.com/oversea',
+    localImage: '/assets/oversea.avif',
+    id: '263'
+  },
+  {
+    title: 'Timeline Scroll',
+    repo: 'https://d960960gm.wixstudio.com/oversea',
+    localImage: '/assets/oversea.avif',
+    id: '264'
+  },
+  {
+    title: 'Grid Cards',
+    repo: 'https://d960960gm.wixstudio.com/oversea/company',
+    localImage: '/assets/grid-cards.avif',
+    id: '265'
+  },
+  {
+    title: 'store-puffer',
+    status: '🏪',
+    repo: 'https://d960960gm.wixstudio.com/store-puffer',
+    localImage: '/assets/store-puffer.avif',
+    id: '266'
+  },
+  {
+    title: 'Complete Section Rotate',
+    status: '🏪',
+    repo: 'https://d960960gm.wixstudio.com/store-puffer',
+    localImage: '/assets/complete-section-rotate.avif',
+    id: '267'
+  }
 ];

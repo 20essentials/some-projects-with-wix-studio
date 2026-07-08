@@ -495,4 +495,52 @@ export const data2 = [
     localImage: '/assets/museo-mason.avif',
     id: '281'
   },
+  {
+    title: 'Coding Events',
+    repo: 'https://d960960gm.wixstudio.com/coding-events',
+    localImage: '/assets/coding-events.avif',
+    id: '282'
+  },
+  {
+    title: 'Bikes Template and Nice Font',
+    repo: 'https://d960960gm.wixstudio.com/bikes-nic',
+    localImage: '/assets/bikes-nic.avif',
+    id: '283'
+  },
+  {
+    title: 'Slider Bikes',
+    repo: 'https://d960960gm.wixstudio.com/bikes-nic',
+    localImage: '/assets/slider-bikes.avif',
+    id: '284'
+  },
+  {
+    title: 'Move Lamp Image By Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-13',
+    localImage: '/assets/move-lamp-image-by-scroll.avif',
+    id: '285'
+  },
+  {
+    title: 'Move and Grow Cards By Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-13',
+    localImage: '/assets/move-and-grow-cards-by-scroll.avif',
+    id: '286'
+  },
+  {
+    title: 'Cards Rotated and Translated By Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-14',
+    localImage: '/assets/move-and-grow-cards-by-scroll.avif',
+    id: '287'
+  },
+  {
+    title: 'Title Multiple Moved By Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-14',
+    localImage: '/assets/title-multiple-moved-by-scroll.avif',
+    id: '288'
+  },
+  {
+    title: 'Table Entrance Reveal Animation',
+    repo: 'https://d960960gm.wixstudio.com/clim',
+    localImage: '/assets/clim.avif',
+    id: '289'
+  },
 ];

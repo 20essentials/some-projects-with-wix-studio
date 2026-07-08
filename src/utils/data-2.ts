@@ -121,7 +121,7 @@ export const data2 = [
   {
     title: 'Table Reservation Section With nice Palette',
     repo: 'https://d960960gm.wixstudio.com/treservation',
-    localImage: '/assets/.avif',
+    localImage: '/assets/treservation.avif',
     id: '220'
   },
   {
@@ -409,5 +409,90 @@ export const data2 = [
     repo: 'https://d960960gm.wixstudio.com/store-puffer',
     localImage: '/assets/complete-section-rotate.avif',
     id: '267'
-  }
+  },
+  {
+    title: 'Aerospace Template',
+    repo: 'https://d960960gm.wixstudio.com/aerospace-template',
+    localImage: '/assets/aerospace-template.avif',
+    id: '268'
+  },
+  {
+    title: 'vescra-store',
+    repo: 'https://d960960gm.wixstudio.com/vescra-store/category/gear',
+    localImage: '/assets/vescra-store.avif',
+    id: '269'
+  },
+  {
+    title: 'Keenect Scroll Cards Animations',
+    repo: 'https://d960960gm.wixstudio.com/keenect/company',
+    localImage: '/assets/keenect.avif',
+    id: '270'
+  },
+  {
+    title: 'Mix Blend Text Over',
+    repo: 'https://d960960gm.wixstudio.com/mix-blend-text-over',
+    localImage: '/assets/mix-blend-text-over.avif',
+    id: '271'
+  },
+  {
+    title: 'Platform Learning Template',
+    repo: 'https://d960960gm.wixstudio.com/learning-platform',
+    localImage: '/assets/learning-platform.avif',
+    id: '272'
+  },
+  {
+    title: 'News Template',
+    repo: 'https://d960960gm.wixstudio.com/news-template',
+    num: 3614,
+    localImage: '/assets/news-template.avif',
+    id: '273'
+  },
+  {
+    title: 'Random Section Fixed',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-13',
+    localImage: '/assets/random-section-fixed.avif',
+    id: '274'
+  },
+  {
+    title: 'bricks-section',
+    repo: 'https://d960960gm.wixstudio.com/bricks-section',
+    localImage: '/assets/bricks-section.avif',
+    id: '275'
+  },
+  {
+    title: 'Cards Design with MouseFollow',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-13',
+    localImage: '/assets/cards-design-with-mousefollow.avif',
+    id: '276'
+  },
+  {
+    title: 'Image Transport Horizontal Move',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-13',
+    localImage: '/assets/image-transport-horizontal-move.avif',
+    id: '277'
+  },
+  {
+    title: 'gradient-section-with-letters',
+    repo: 'https://d960960gm.wixstudio.com/kinetix',
+    localImage: '/assets/gradient-section-with-letters.avif',
+    id: '278'
+  },
+  {
+    title: 'Horizontal Gallery',
+    repo: 'https://d960960gm.wixstudio.com/kinetix',
+    localImage: '/assets/horizontal-gallery.avif',
+    id: '279'
+  },
+  {
+    title: 'Horizontal Section Move By Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-13',
+    localImage: '/assets/horizontal-section-move-by-scroll.avif',
+    id: '280'
+  },
+  {
+    title: 'Museo mason',
+    repo: 'https://d960960gm.wixstudio.com/museo-mason',
+    localImage: '/assets/museo-mason.avif',
+    id: '281'
+  },
 ];

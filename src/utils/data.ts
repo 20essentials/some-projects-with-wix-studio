@@ -11,4 +11,5 @@ export const TITLE = `${arrayCards.length} Projects using Wix Studio`;
 const STATUS = {
   'Eccomerce or store': '🏪',
   'Events': '🎉',
+  'Nice Template': '🟢'
 }

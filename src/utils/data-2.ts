@@ -543,4 +543,78 @@ export const data2 = [
     localImage: '/assets/clim.avif',
     id: '289'
   },
+  {
+    title: 'Modern Gradient Template',
+    repo: 'https://d960960gm.wixstudio.com/mode-gradient',
+    localImage: '/assets/modern-gradient-template.avif',
+    id: '290'
+  },
+  {
+    title: 'Grid Events 169bpm',
+    repo: 'https://d960960gm.wixstudio.com/events-169bpm',
+    localImage: '/assets/events-169bpm.avif',
+    id: '291'
+  },
+  {
+    title: 'Footer With gradient Fixed',
+    repo: 'https://d960960gm.wixstudio.com/events-169bpm',
+    localImage: '/assets/footer-with-gradient.avif',
+    id: '292'
+  },
+  {
+    title: 'Gran template con Buen Uso de Pro Gallery',
+    status: '🟢',
+    repo: 'https://d960960gm.wixstudio.com/kael',
+    localImage: '/assets/kael.avif',
+    id: '293'
+  },
+  {
+    title: 'Grow Image By Scroll on Section',
+    repo: 'https://d960960gm.wixstudio.com/kael',
+    localImage: '/assets/kael.avif',
+    id: '294'
+  },
+  {
+    title: 'Animated Section',
+    repo: 'https://d960960gm.wixstudio.com/sections-animated',
+    localImage: '/assets/animated-section.avif',
+    id: '294'
+  },
+  {
+    title: 'Fisioterapista Template',
+    repo: 'https://d960960gm.wixstudio.com/fisioterapista',
+    localImage: '/assets/fisioterapista-template.avif',
+    id: '295'
+  },
+  {
+    title: 'Rental Cars Template',
+    repo: 'https://d960960gm.wixstudio.com/rental-cars-template',
+    localImage: '/assets/rental-cars-template.avif',
+    id: '296'
+  },
+  {
+    title: 'Template With Arc Effects',
+    status: '🟢',
+    repo: 'https://d960960gm.wixstudio.com/arc-effects',
+    localImage: '/assets/template-with-arc-effects.avif',
+    id: '297'
+  },
+  {
+    title: 'AI abstract Template',
+    repo: 'https://d960960gm.wixstudio.com/ai-template',
+    localImage: '/assets/ai-abstract-template.avif',
+    id: '298'
+  },
+  {
+    title: 'Form with Nice Background',
+    repo: 'https://d960960gm.wixstudio.com/gymweb/pricing-plans/list',
+    localImage: '/assets/form-with-nice-background.avif',
+    id: '299'
+  },
+  {
+    title: 'Parallax and Fixed Cards Arc',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-14',
+    localImage: '/assets/form-with-nice-background.avif',
+    id: '300'
+  },
 ];

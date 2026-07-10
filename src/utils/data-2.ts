@@ -749,4 +749,96 @@ export const data2 = [
     localImage: '/assets/gradient-footer-electric.avif',
     id: '322'
   },
+  {
+    title: 'Section Service Grow By Scroll',
+    repo: 'https://d3m0ns300.wixstudio.com/splash',
+    localImage: '/assets/section-service-grow-by-scroll.avif',
+    id: '323'
+  },
+  {
+    title: 'Footer Minimalist',
+    repo: 'https://d3m0ns300.wixstudio.com/splash',
+    localImage: '/assets/footer-minimalist-2.avif',
+    id: '324'
+  },
+  {
+    title: 'Change Image By Hover',
+    repo: 'https://d3m0ns300.wixstudio.com/abf-store',
+    localImage: '/assets/change-image-by-hover.avif',
+    id: '325'
+  },
+  {
+    title: 'Blue Footer',
+    repo: 'https://d3m0ns300.wixstudio.com/abf-store',
+    localImage: '/assets/blue-footer.avif',
+    id: '326'
+  },
+  {
+    title: 'Card Bem',
+    repo: 'https://d3m0ns300.wixstudio.com/my-projects',
+    localImage: '/assets/card-bem.avif',
+    id: '327'
+  },
+  {
+    title: 'Liberty Footer',
+    repo: 'https://d3m0ns300.wixstudio.com/liberty',
+    localImage: '/assets/liberty-footer.avif',
+    id: '328'
+  },
+  {
+    title: 'Workshop Hero',
+    repo: 'https://d3m0ns300.wixstudio.com/workshop',
+    localImage: '/assets/workshop-hero.avif',
+    id: '329'
+  },
+  {
+    title: 'Workshop Slider Vertical',
+    repo: 'https://d3m0ns300.wixstudio.com/workshop',
+    localImage: '/assets/workshop-slider-vertical.avif',
+    id: '330'
+  },
+  {
+    title: 'Section Gallery Acumulada',
+    repo: 'https://d3m0ns300.wixstudio.com/workshop',
+    localImage: '/assets/workshop-slider-vertical.avif',
+    id: '331'
+  },
+  {
+    title: 'Amazing Hero',
+    status: '🟢',
+    repo: 'https://d3m0ns300.wixstudio.com/my-site',
+    localImage: '/assets/amazing-hero.avif',
+    id: '332'
+  },
+  {
+    title: 'Grow Row By Scroll',
+    repo: 'https://d3m0ns300.wixstudio.com/my-site',
+    localImage: '/assets/grow-row-by-scroll.avif',
+    id: '333'
+  },
+  {
+    title: 'Amazing Blur Cards',
+    status: '🟢',
+    repo: 'https://d3m0ns300.wixstudio.com/my-site',
+    localImage: '/assets/amazing-blur-cards.avif',
+    id: '334'
+  },
+  {
+    title: 'Vertical Timeline',
+    repo: 'https://d3m0ns300.wixstudio.com/my-site',
+    localImage: '/assets/vertical-timeline.avif',
+    id: '335'
+  },
+  {
+    title: 'Footer Modern',
+    repo: 'https://d3m0ns300.wixstudio.com/my-site',
+    localImage: '/assets/footer-modern.avif',
+    id: '336'
+  },
+  {
+    title: 'Store Example (Wix classic)',
+    repo: 'https://d3m0ns300.wixsite.com/store-example',
+    localImage: '/assets/store-example-wix-classic.avif',
+    id: '337'
+  },
 ];

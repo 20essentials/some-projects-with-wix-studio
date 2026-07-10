@@ -617,4 +617,64 @@ export const data2 = [
     localImage: '/assets/form-with-nice-background.avif',
     id: '300'
   },
+  {
+    title: 'Parallax Template',
+    repo: 'https://d960960gm.wixstudio.com/parallax-web',
+    localImage: '/assets/parallax-template.avif',
+    id: '301'
+  },
+  {
+    title: 'Modern Tattoo Template Web',
+    repo: 'https://d960960gm.wixstudio.com/modern-tattoo',
+    localImage: '/assets/modern-tattoo-template-web.avif',
+    id: '302'
+  },
+  {
+    title: 'Section Fixed With Parallax',
+    repo: 'https://d960960gm.wixstudio.com/modern-tattoo',
+    localImage: '/assets/section-fixed-with-parallax.avif',
+    id: '303'
+  },
+  {
+    title: 'Arc Sutil Vertical Items Entrance Animation',
+    repo: 'https://d960960gm.wixstudio.com/modern-tattoo',
+    localImage: '/assets/arc-sutil-vertical-items-entrance-animation.avif',
+    id: '304'
+  },
+  {
+    title: 'Hero Reveal in Image',
+    repo: 'https://d960960gm.wixstudio.com/climbing',
+    localImage: '/assets/hero-reveal-in-image.avif',
+    id: '305'
+  },
+  {
+    title: 'Text Acend Animation',
+    repo: 'https://d960960gm.wixstudio.com/climbing',
+    localImage: '/assets/text-acend-animation.avif',
+    id: '306'
+  },
+  {
+    title: 'Dejade Hero',
+    repo: 'https://d960960gm.wixstudio.com/dejade-hero',
+    localImage: '/assets/dejade-hero.avif',
+    id: '307'
+  },
+  {
+    title: '3D CardPhoto Animation',
+    repo: 'https://d960960gm.wixstudio.com/dejade-hero/tour',
+    localImage: '/assets/3d-cardphoto-animation.avif',
+    id: '308'
+  },
+  {
+    title: 'Architect Web Hero',
+    repo: 'https://d960960gm.wixstudio.com/architect',
+    localImage: '/assets/architect-web-hero.avif',
+    id: '309'
+  },
+  {
+    title: 'Gallery Items with Different Sizes',
+    repo: 'https://d960960gm.wixstudio.com/architect',
+    localImage: '/assets/gallery-items-with-different-sizes.avif',
+    id: '310'
+  },
 ];

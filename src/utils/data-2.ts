@@ -677,4 +677,76 @@ export const data2 = [
     localImage: '/assets/gallery-items-with-different-sizes.avif',
     id: '310'
   },
+  {
+    title: 'Bags Store Template',
+    repo: 'https://d960960gm.wixstudio.com/bags-store-template',
+    localImage: '/assets/bags-store-template.avif',
+    id: '311'
+  },
+  {
+    title: 'Beauty Products Template',
+    repo: 'https://d960960gm.wixstudio.com/beauty-products-template',
+    localImage: '/assets/beauty-products-template.avif',
+    id: '312'
+  },
+  {
+    title: 'Gallery Double Beauty Products',
+    repo: 'https://d960960gm.wixstudio.com/beauty-products-template',
+    localImage: '/assets/gallery-double-beauty-products.avif',
+    id: '313'
+  },
+  {
+    title: 'Fixed Cards and Text marquee Vertical',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-14',
+    localImage: '/assets/fixed-cards-and-text-marquee-vertical.avif',
+    id: '314'
+  },
+  {
+    title: 'Footer Minimalist',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-14',
+    localImage: '/assets/footer-minimalist.avif',
+    id: '315'
+  },
+  {
+    title: 'Image Grow By Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-14',
+    localImage: '/assets/image-grow-by-scroll.avif',
+    id: '316'
+  },
+  {
+    title: 'Nice Transparent Images',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-15',
+    localImage: '/assets/nice-transparent-images.avif',
+    id: '317'
+  },
+  {
+    title: 'Nice Transparent 3D Video',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-15',
+    localImage: '/assets/nice-transparent-3d-video.avif',
+    id: '318'
+  },
+  {
+    title: 'Amazing Use Of Transparent Videos',
+    repo: 'https://d3m0ns300.wixstudio.com/studio-cords',
+    localImage: '/assets/amazing-use-of-transparent-videos.avif',
+    id: '319'
+  },
+  {
+    title: 'Circular Image Rotated By Scroll',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-15',
+    localImage: '/assets/circular-image-rotated-by-scroll.avif',
+    id: '320'
+  },
+  {
+    title: 'Electronic Template',
+    repo: 'https://d3m0ns300.wixstudio.com/electronic-template',
+    localImage: '/assets/electronic-template.avif',
+    id: '321'
+  },
+  {
+    title: 'Gradient Footer Electric',
+    repo: 'https://d3m0ns300.wixstudio.com/electronic-template',
+    localImage: '/assets/gradient-footer-electric.avif',
+    id: '322'
+  },
 ];

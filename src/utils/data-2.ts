@@ -841,4 +841,28 @@ export const data2 = [
     localImage: '/assets/store-example-wix-classic.avif',
     id: '337'
   },
+  {
+    title: 'Hero Ampitud',
+    repo: 'https://d3m0ns300.wixsite.com/hero-ampitud',
+    localImage: '/assets/hero-ampitud.avif',
+    id: '338'
+  },
+  {
+    title: 'Clean Web',
+    repo: 'https://d3m0ns300.wixsite.com/clean-web',
+    localImage: '/assets/clean-web.avif',
+    id: '339'
+  },
+  {
+    title: 'Footer Gallery Art',
+    repo: 'https://d3m0ns300.wixstudio.com/gallery-art-web',
+    localImage: '/assets/gallery-art-web.avif',
+    id: '340'
+  },
+  {
+    title: 'Gradient Circles Follow',
+    repo: 'https://d3m0ns300.wixstudio.com/gradient-circles',
+    localImage: '/assets/gradient-circles-follow.avif',
+    id: '341'
+  },
 ];

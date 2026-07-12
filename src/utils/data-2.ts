@@ -865,4 +865,18 @@ export const data2 = [
     localImage: '/assets/gradient-circles-follow.avif',
     id: '341'
   },
+  {
+    title: 'Electric Modern Web',
+    status: '🟢',
+    repo: 'https://d3m0ns300.wixstudio.com/electric-modern-web',
+    localImage: '/assets/electric-modern-web.avif',
+    id: '342'
+  },
+  {
+    title: 'Puppy Food store',
+    status: '🟢',
+    repo: 'https://d3m0ns300.wixstudio.com/puppy-food/category/all-products',
+    localImage: '/assets/puppy-food.avif',
+    id: '343'
+  },
 ];

@@ -879,4 +879,25 @@ export const data2 = [
     localImage: '/assets/puppy-food.avif',
     id: '343'
   },
+  {
+    title: 'Scroll Effect with Motion Flow di Interactive Studio',
+    wixAppLink: 'https://www.wix.com/app-market/motion-flow?',
+    repo: 'https://d3m0ns300.wixstudio.com/my-projects/random-sections-part-1',
+    localImage: '/assets/scroll-effect-with-motion-flow-di-interactive-studio.avif',
+    id: '344'
+  },
+  {
+    title: 'Spline Control Wix App',
+    repo: 'https://d3m0ns300.wixstudio.com/my-projects/random-sections-part-2',
+    localImage: '/assets/spline-control-wix-app.avif',
+    id: '345'
+  },
+  {
+    title: 'Aura Suite Wix App: Entrance Text Animation, Scroll Text Animation, Smooth Scroll, Custom Cursors',
+    repo: 'https://d3m0ns300.wixstudio.com/studio-cords/aura-suite',
+    localImage: '/assets/aura-suite.avif',
+    id: '346'
+  },
 ];
+
+

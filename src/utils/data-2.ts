@@ -109,7 +109,7 @@ export const data2 = [
   {
     title: 'Section con Imagenes Transparentes en Parallax Scroll',
     repo: 'https://d960960gm.wixstudio.com/timeless',
-    localImage: '/assets/lindo-menu-e-imagenes-transparentes-con-mousemove.avif',
+    localImage: '/assets/section-con-imagenes-transparentes-en-parallax-scroll.avif',
     id: '218'
   },
   {
@@ -127,7 +127,7 @@ export const data2 = [
   {
     title: 'Grow Video By Scroll',
     repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-10',
-    localImage: '/assets/.avif',
+    localImage: '/assets/grow-video-by-scroll.avif',
     id: '221'
   },
   {

@@ -1,4 +1,4 @@
-import Silk from './Silk';
+import Silk from './silk';
 import './Silk.css';
 
 export const ContainerSilk = () => {

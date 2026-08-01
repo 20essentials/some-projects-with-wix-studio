@@ -898,6 +898,12 @@ export const data2 = [
     localImage: '/assets/aura-suite.avif',
     id: '346'
   },
+  {
+    title: 'Section Bleeze',
+    repo: 'https://d960960gm.wixstudio.com/projects/random-sections-part-15',
+    localImage: '/assets/section-bleeze.avif',
+    id: '346'
+  },
 ];
 
 
